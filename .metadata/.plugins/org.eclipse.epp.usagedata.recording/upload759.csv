@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276140981069
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276140982211
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276140988493
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276141300508
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276141305227
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1276141319040
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276141319399
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141332290
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141332524
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141332805
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1276141359508
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141361086
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141361274
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.rename.element",1276141371321
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276141374274
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1276141379946
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276141383102
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276141384399
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1276141386821
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276141389399
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276141407352
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141408165
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141431024
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276141465291
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276141467057

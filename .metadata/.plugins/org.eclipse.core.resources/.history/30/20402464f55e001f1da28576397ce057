@@ -1,0 +1,32 @@
+package com.lzw;
+
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+public class TestSend {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			Socket socket=new Socket("localhost",9528);
+			OutputStream stream = socket.getOutputStream();
+			BufferedWriter bw=new BufferedWriter(new OutputStreamWriter(stream));
+			bw.write("≤‚ ‘“ª∏ˆ–¶À¿");
+			bw.flush();
+		} catch (UnknownHostException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

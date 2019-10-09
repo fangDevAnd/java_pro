@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1275456431832
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275456433128
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275456434566
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275456444441
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275456464425
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275456473207
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275456481894
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.expand_all",1275456492519
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.expand_all",1275456493785
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.expand_all",1275456494363
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.expand_all",1275456494535
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.expand_all",1275456494707
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.toggle",1275456494957
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.toggle",1275456495550
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275456497160
+no handler,command,org.eclipse.gef,,"org.eclipse.gef.zoom_out",1275456498769
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse_all",1275456499707
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse_all",1275456500550
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.restore",1275456501457
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse_all",1275456502472
+no handler,command,org.eclipse.gef,,"org.eclipse.gef.zoom_out",1275456502878
+no handler,command,org.eclipse.gef,,"org.eclipse.gef.zoom_out",1275456503441
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275456551082
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275456551550
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275456567535

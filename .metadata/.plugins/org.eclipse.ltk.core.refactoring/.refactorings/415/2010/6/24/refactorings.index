@@ -1,0 +1,8 @@
+1275871079018	重命名类型“PreviewFileChooser”
+1275879958204	抽取局部变量“imagePreviewer”
+1275879963375	将局部变量“imagePreviewer”转换为字段
+1275880000219	重命名方法“setImage”
+1275881607016	抽取方法“initFileChooser”
+1275881642532	将局部变量“fileChooser”转换为字段
+1275886787406	将局部变量“imagePreviewer_1”转换为字段
+1275887730538	将局部变量“previewer”转换为字段

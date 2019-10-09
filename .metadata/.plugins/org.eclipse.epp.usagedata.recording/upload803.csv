@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157220264
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157223045
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157226170
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276157231858
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157232155
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157232311
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276157239999
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276157243858
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276157244045
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276157244483
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276157245702
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157247249
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157362185
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1276157382529
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1276157389982
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.surround.with.quickMenu",1276157391029
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.wordNext",1276157397466
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276157405466
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157405810
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157406732
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276157421185
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276157421373
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276157421513
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276157421685
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276157421841

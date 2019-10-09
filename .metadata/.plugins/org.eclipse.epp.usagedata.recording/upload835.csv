@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276330982354
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330987104
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276330997120
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276330997963
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276331000995
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276331002479
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331031229
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331045026
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331046870
+started,bundle,org.eclipse.ant.ui,3.4.0.v20090520,"org.eclipse.ant.ui",1276331103597
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1276331103707
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331105925
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.rename",1276331105941
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331106972
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331223832
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276331225597
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276331225628
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331227113
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331227738
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276331234472
+error,log,,,"Designer [7.4.0.r35x201005090400]: 3",1276331253269
+error,log,,,"Designer [7.4.0.r35x201005090400]: java.lang.ArrayIndexOutOfBoundsException: 3",1276331253503
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331256878
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331257285
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276331267863

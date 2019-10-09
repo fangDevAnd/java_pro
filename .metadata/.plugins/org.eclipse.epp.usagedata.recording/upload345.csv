@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1275291713313
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1275291713313
+started,bundle,com.instantiations.eclipse.ui,7.4.0.r35x201005070742,"com.instantiations.eclipse.ui",1275291713313
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1275291713313
+started,bundle,com.swtdesigner,6.9.3.200910081122,"com.swtdesigner",1275291713313
+started,bundle,com.swtdesigner.gwt,6.9.3.200910081147,"com.swtdesigner.gwt",1275291713313
+os,sysinfo,,,"win32",1275291713313
+arch,sysinfo,,,"x86",1275291713313
+ws,sysinfo,,,"win32",1275291713313
+locale,sysinfo,,,"zh_CN",1275291713313
+processors,sysinfo,,,"2",1275291713313
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275291713313
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275291713313
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275291713313
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275291713313
+java.specification.version,sysinfo,,,"1.6",1275291713313
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275291713313
+java.version,sysinfo,,,"1.6.0_20",1275291713313
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275291713313
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275291713313
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1275291713313
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275291713313
+java.vm.specification.version,sysinfo,,,"1.0",1275291713313
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1275291713313
+java.vm.version,sysinfo,,,"16.3-b01",1275291713313

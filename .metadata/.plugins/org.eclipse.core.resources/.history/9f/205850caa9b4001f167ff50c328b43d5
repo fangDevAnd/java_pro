@@ -1,0 +1,48 @@
+package com.lzw.widget;
+
+import javax.swing.Icon;
+import javax.swing.JButton;
+import javax.swing.JPanel;
+import javax.swing.colorchooser.AbstractColorChooserPanel;
+
+public class JColorField extends AbstractColorChooserPanel {
+    
+    /**
+     * Create the panel.
+     */
+    public JColorField() {
+        
+        JPanel panel=new JPanel();
+        panel.add(new JButton("fdsfds"));
+    }
+
+    @Override
+    protected void buildChooser() {
+        // TODO Auto-generated method stub
+    }
+
+    @Override
+    public String getDisplayName() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public Icon getLargeDisplayIcon() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public Icon getSmallDisplayIcon() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public void updateChooser() {
+        // TODO Auto-generated method stub
+        
+    }
+    
+}

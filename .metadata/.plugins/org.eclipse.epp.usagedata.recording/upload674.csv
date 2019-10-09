@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987352842
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987354920
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987360999
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987361061
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987362420
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987363342
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987366905
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275987379874
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987379967
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987380342
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275987471124
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987471217
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987471561
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275987471905
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987472202
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987472530
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275987475030
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987475124
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987475514
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987661530
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275987665764
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275987674139
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275987717264
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1275987718358
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1275987738045

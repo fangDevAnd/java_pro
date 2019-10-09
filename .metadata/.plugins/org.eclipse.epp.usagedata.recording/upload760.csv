@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141678541
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141678776
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141679026
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141682198
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141688213
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1276141692635
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141699901
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276141702666
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141707416
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141707526
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.add.javadoc.comment",1276141707526
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276141741073
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1276141744698
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1276141747776
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141768323
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141817354
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.toggle.comment",1276141821416
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141823823
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276141782046
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276146225958
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276146226943
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276147360892
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276147364001
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276147381876
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276147381939

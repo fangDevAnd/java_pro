@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276159972068
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276159975240
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276159978615
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276159983146
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276159983833
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276159985755
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276159993271
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276159994630
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160078093
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276160078140
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276160078796
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1276160091203
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1276160091406
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1276160093796
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1276160099640
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1276160101656
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160102515
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160102687
+no handler,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276160107437
+no handler,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276160110046
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276160111343
+no handler,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276160112546
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.DebugLast",1276160113375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160114562
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160116578

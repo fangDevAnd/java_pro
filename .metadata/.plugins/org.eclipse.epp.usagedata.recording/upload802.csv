@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276157034199
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276157038714
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276157040917
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157042183
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157044214
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276157044277
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276157045201
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276157046091
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157046716
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157091954
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276157092000
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276157132000
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157136594
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157188686
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276157188842
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276157195342
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276157197514
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276157197514
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1276157200202
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textEnd",1276157200889
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157203952
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157204577
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157205233
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276157205514
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157217170

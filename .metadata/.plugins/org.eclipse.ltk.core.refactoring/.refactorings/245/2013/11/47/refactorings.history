@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“245/lib/commons.collections-3.2.1.jar”重命名为“commons-collections-3.2.1.jar”" description="重命名资源“commons.collections-3.2.1.jar”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="lib/commons.collections-3.2.1.jar" name="commons-collections-3.2.1.jar" stamp="1384912784818" updateReferences="true"/>
+</session>

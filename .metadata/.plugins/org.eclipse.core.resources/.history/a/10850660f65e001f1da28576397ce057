@@ -1,0 +1,42 @@
+package com.lzw;
+
+import java.awt.HeadlessException;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.Socket;
+
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
+public class HandleReceive extends Thread {
+
+	private Socket accept;
+
+	public HandleReceive(Socket accept) {
+		this.accept = accept;
+	}
+
+	@Override
+	public void run() {
+		try {
+			InputStream stream = accept.getInputStream();
+			BufferedReader br = new BufferedReader(
+					new InputStreamReader(stream));
+			while (accept.isConnected()) {
+				String line = br.readLine();
+//				JFrame frame = new JFrame();
+//				frame.setSize(800, 600);
+//				frame.setVisible(true);
+				System.out.println(line);
+			}
+			br.close();
+		} catch (HeadlessException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

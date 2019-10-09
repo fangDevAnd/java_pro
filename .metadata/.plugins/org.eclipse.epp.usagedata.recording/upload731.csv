@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068827593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068829484
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068830203
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068832156
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276068840609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068841046
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068849609
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276068855546
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068856171
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068956375
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276068968562
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276068968937
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276069024421
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1276069061015
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1276069062453
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276069082265
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276069082484
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276069082984
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276069083140
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1276069091234
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276069097000
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276069099937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276069100359
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276069265015
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1276069323609

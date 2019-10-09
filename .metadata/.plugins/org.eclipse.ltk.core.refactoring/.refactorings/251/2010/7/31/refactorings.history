@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="从表达式“GraphicsEnvironment.getLocalGraphicsEnvironment()”中抽取局部变量“localGraphicsEnvironment”&#x0D;&#x0A;－ 原始项目：“实例006  根据桌面大小调整窗体大小”&#x0D;&#x0A;－ 变量名称：“localGraphicsEnvironment”&#x0D;&#x0A;－ 目标方法：“SetFormSizeByDeskSize.do_this_windowOpened()”&#x0D;&#x0A;－ 变量表达式：“GraphicsEnvironment.getLocalGraphicsEnvironment()”" description="抽取局部变量“localGraphicsEnvironment”" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{SetFormSizeByDeskSize.java" name="localGraphicsEnvironment" replace="false" selection="1583 49" stamp="1280385701149" version="1.0"/>
+</session>

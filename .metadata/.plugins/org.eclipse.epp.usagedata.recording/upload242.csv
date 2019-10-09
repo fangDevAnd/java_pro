@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.forms,3.4.0.v20090526,"org.eclipse.ui.forms",1275017689678
+started,bundle,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.ide",1275017689725
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1275017689756
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1275017689772
+started,bundle,org.eclipse.ui.views.log,1.0.100.v20090527,"org.eclipse.ui.views.log",1275017689819
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1275017689866
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1275017689881
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1275017689881
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1275017689913
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1275017689944
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1275017689944
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1275017689975
+started,bundle,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core",1275017689975
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1275017690006
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1275017690006
+started,bundle,com.instantiations.eclipse.ui,7.4.0.r35x201005070742,"com.instantiations.eclipse.ui",1275017690006
+os,sysinfo,,,"win32",1275017690006
+arch,sysinfo,,,"x86",1275017690006
+ws,sysinfo,,,"win32",1275017690006
+locale,sysinfo,,,"zh_CN",1275017690006
+processors,sysinfo,,,"2",1275017690006
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275017690006
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275017690006
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275017690006
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275017690006

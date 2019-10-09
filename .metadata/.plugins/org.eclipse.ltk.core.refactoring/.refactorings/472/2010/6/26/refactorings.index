@@ -1,0 +1,14 @@
+1277176379295	Delete element
+1277176574070	Rename type 'Server'
+1277177408678	Extract local variable 'outputStream'
+1277177616844	Convert local variable 'socket' to field
+1277178382186	Extract method 'sendMessage'
+1277178418705	Extract local variable 'string'
+1277255301855	Extract method 'initSocket'
+1277256634664	Convert anonymous class to nested
+1277257738683	Inline method 'initSocket'
+1277263904039	Move file
+1277263921210	Move file
+1277264019285	Extract constant 'COM_TEXT_FILE'
+1277264090968	Extract local variable 'selectedValue'
+1277264175978	Delete element

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将“BreakCyc.main(...)”中的局部变量“aves”重命名为“array”&#x0D;&#x0A;－ 原始项目：“实例021  终止循环体”&#x0D;&#x0A;－ 原始元素：“BreakCyc.main(String[]).aves”&#x0D;&#x0A;－ 重命名的元素：“aves”&#x0D;&#x0A;－ 更新对已重构元素的引用" description="重命名局部变量“aves”" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{BreakCyc.java[BreakCyc~main~\[QString;@aves!79!200!88!91!\[QString;" name="array" references="true" stamp="1278636981286" version="1.0"/>
+</session>

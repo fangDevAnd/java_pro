@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.common.ui,5.6.0.r35x201005070739,"com.instantiations.common.ui",1274073898237
+started,bundle,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core",1274073898237
+started,bundle,com.instantiations.designer.core.databinding,7.4.0.r35x201005090400,"com.instantiations.designer.core.databinding",1274073898237
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1274073898252
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1274073898252
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1274073898252
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1274073898252
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1274073898252
+started,bundle,com.instantiations.designer.rcp.databinding,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.databinding",1274073898252
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1274073898252
+started,bundle,com.instantiations.designer.swing.databinding,7.4.0.r35x201005090414,"com.instantiations.designer.swing.databinding",1274073898268
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1274073898268
+started,bundle,com.instantiations.eclipse.ui,7.4.0.r35x201005070742,"com.instantiations.eclipse.ui",1274073898268
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1274073898268
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1274073898268
+started,bundle,com.instantiations.j2ee,7.4.0.r35x201005070802,"com.instantiations.j2ee",1274073898284
+os,sysinfo,,,"win32",1274073898284
+arch,sysinfo,,,"x86",1274073898284
+ws,sysinfo,,,"win32",1274073898284
+locale,sysinfo,,,"zh_CN",1274073898284
+processors,sysinfo,,,"2",1274073898284
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1274073898284
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1274073898284
+java.specification.name,sysinfo,,,"Java Platform API Specification",1274073898284
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274073898284

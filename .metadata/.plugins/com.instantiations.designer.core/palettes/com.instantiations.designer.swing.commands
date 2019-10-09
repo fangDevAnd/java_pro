@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="category_1275639841402"
+		name="Custom"
+		description="Container for custom components"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="custom_1275639841386"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275639880822"
+		name="FileView"
+		description="Creates javax.swing.filechooser.FileView component."
+		visible="true"
+		class="javax.swing.filechooser.FileView"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275876985470"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275876991689"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275877002439"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275877010173"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275879241401"
+		name="ImagePreviewer"
+		description="Creates com.lzw.ImagePreviewer component."
+		visible="true"
+		class="com.lzw.ImagePreviewer"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275881694719"
+		name="ImagePreviewer"
+		description="Creates com.lzw.ImagePreviewer component."
+		visible="true"
+		class="com.lzw.ImagePreviewer"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275881702204"
+		name="ImagePreviewer"
+		description="Creates com.lzw.ImagePreviewer component."
+		visible="true"
+		class="com.lzw.ImagePreviewer"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275881709266"
+		name="ImagePreviewer"
+		description="Creates com.lzw.ImagePreviewer component."
+		visible="true"
+		class="com.lzw.ImagePreviewer"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275987338717"
+		name="FileSystemView"
+		description="Creates javax.swing.filechooser.FileSystemView component."
+		visible="true"
+		class="javax.swing.filechooser.FileSystemView"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275987347514"
+		name="FileView"
+		description="Creates javax.swing.filechooser.FileView component."
+		visible="true"
+		class="javax.swing.filechooser.FileView"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275987352858"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275987361014"
+		name="FileSystemView"
+		description="Creates javax.swing.filechooser.FileSystemView component."
+		visible="true"
+		class="javax.swing.filechooser.FileSystemView"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1275987366920"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<removeEntry
+		id="custom_1275877010173"/>
+	<removeEntry
+		id="custom_1275876985470"/>
+	<removeEntry
+		id="custom_1275987338717"/>
+	<removeEntry
+		id="custom_1275639841386"/>
+	<removeEntry
+		id="custom_1275639880822"/>
+	<removeEntry
+		id="custom_1275876991689"/>
+	<removeEntry
+		id="custom_1275877002439"/>
+	<removeEntry
+		id="custom_1275987347514"/>
+	<removeEntry
+		id="custom_1275987366920"/>
+	<removeEntry
+		id="custom_1275987361014"/>
+	<addComponent
+		id="custom_1276411000600"
+		name="JFormattedTextField"
+		description="Creates javax.swing.JFormattedTextField component."
+		visible="true"
+		class="javax.swing.JFormattedTextField"
+		category="category_1275639841402"/>
+	<editCategory
+		id="com.instantiations.designer.swing.layouts"
+		name="Layouts"
+		description="Swing/AWT layout managers"
+		visible="true"
+		open="false"/>
+	<addComponent
+		id="custom_1279010574888"
+		name="ButtonGroup"
+		visible="true"
+		class="javax.swing.ButtonGroup"
+		category="com.instantiations.designer.swing.containers"/>
+	<addComponent
+		id="custom_1279260379948"
+		name="IpField"
+		description="Creates com.lzw.IpField component."
+		visible="true"
+		class="com.lzw.IpField"
+		category="category_1275639841402"/>
+	<removeEntry
+		id="custom_1279260379948"/>
+	<addComponent
+		id="custom_1279260754948"
+		name="IpField"
+		description="Creates com.lzw.IpField component."
+		visible="true"
+		class="com.lzw.IpField"
+		category="category_1275639841402"/>
+	<removeEntry
+		id="custom_1279260754948"/>
+	<addComponent
+		id="custom_1279262077978"
+		name="IpField"
+		description="Creates com.lzw.IpField component."
+		visible="true"
+		class="com.lzw.IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1279262532556"
+		name="IpField"
+		description="Creates IpField component."
+		visible="true"
+		class="IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1279268211722"
+		name="IpField"
+		description="Creates com.lzw.ip.IpField component."
+		visible="true"
+		class="com.lzw.ip.IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1279268220988"
+		name="IpField"
+		description="Creates com.lzw.ip.IpField component."
+		visible="true"
+		class="com.lzw.ip.IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280392270098"
+		name="BackgroundPanel"
+		description="Creates com.lzw.BackgroundPanel component."
+		visible="true"
+		class="com.lzw.BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280469488913"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280539342381"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280558319856"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280716445392"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280725387809"
+		name="ShadePanel"
+		description="Creates ShadePanel component."
+		visible="true"
+		class="ShadePanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1280886515543"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1281143156847"
+		name="BackgroundPanel"
+		description="Creates BackgroundPanel component."
+		visible="true"
+		class="BackgroundPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1281318353298"
+		name="JFileChooser"
+		description="Creates javax.swing.JFileChooser component."
+		visible="true"
+		class="javax.swing.JFileChooser"
+		category="category_1275639841402"/>
+	<moveEntry
+		id="system.chooseComponent"
+		category="com.instantiations.designer.swing.system"
+		nextEntry="system.marquee"/>
+	<addComponent
+		id="custom_1282789095878"
+		name="ImgPanel"
+		description="Creates com.lzw.ImgPanel component."
+		visible="true"
+		class="com.lzw.ImgPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283131475856"
+		name="JClock"
+		description="Creates com.lzw.widget.JClock component."
+		visible="true"
+		class="com.lzw.widget.JClock"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283136785546"
+		name="IpField"
+		description="Creates com.lzw.ip.IpField component."
+		visible="true"
+		class="com.lzw.ip.IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283136795203"
+		name="IpField"
+		description="Creates com.lzw.ip.IpField component."
+		visible="true"
+		class="com.lzw.ip.IpField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283138711309"
+		name="CalendarPanel"
+		description="Creates com.lzw.widget.CalendarPanel component."
+		visible="true"
+		class="com.lzw.widget.CalendarPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283148314583"
+		name="SmallScrollPanel"
+		description="Creates com.lzw.widget.SmallScrollPanel component."
+		visible="true"
+		class="com.lzw.widget.SmallScrollPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283150317709"
+		name="ButtonPanel"
+		description="Creates com.lzw.widget.ButtonPanel component."
+		visible="true"
+		class="com.lzw.widget.ButtonPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283218579747"
+		name="JColorField"
+		description="Creates com.lzw.widget.JColorField component."
+		visible="true"
+		class="com.lzw.widget.JColorField"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283219028687"
+		name="JColorChooser"
+		description="Creates javax.swing.JColorChooser component."
+		visible="true"
+		class="javax.swing.JColorChooser"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283235514340"
+		name="BGPanel"
+		description="Creates BGPanel component."
+		visible="true"
+		class="BGPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283305185469"
+		name="BGPanel"
+		description="Creates com.lzw.widget.BGPanel component."
+		visible="true"
+		class="com.lzw.widget.BGPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283322102019"
+		name="BGPanel"
+		description="Creates com.lzw.panel.BGPanel component."
+		visible="true"
+		class="com.lzw.panel.BGPanel"
+		category="category_1275639841402"/>
+	<addComponent
+		id="custom_1283390526274"
+		name="BGPanel"
+		description="Creates BGPanel component."
+		visible="true"
+		class="BGPanel"
+		category="category_1275639841402"/>
+</commands>

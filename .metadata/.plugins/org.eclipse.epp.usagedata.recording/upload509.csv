@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1275722689916
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275722691620
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275722692104
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723267416
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723272026
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723333354
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723351776
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723381448
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723382448
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723410901
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275723418057
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275723420166
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723420557
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723538104
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723545354
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723552698
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723558041
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723563276
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723570213
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275723597870
+error,log,,,"Unable to create editor ID org.eclipse.jdt.ui.ClassFileEditor: Unmatched braces in the pattern.",1275723600495
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275723600588
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275723600604
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275723600698
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275723603416

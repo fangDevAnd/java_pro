@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.version,sysinfo,,,"1.6.0_20",1276925642602
+java.vm.info,sysinfo,,,"mixed mode, sharing",1276925642602
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1276925642602
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1276925642602
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1276925642602
+java.vm.specification.version,sysinfo,,,"1.0",1276925642602
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1276925642602
+java.vm.version,sysinfo,,,"16.3-b01",1276925642602
+started,bundle,com.instantiations.eclipse.ui,7.2.0.200910081112,"com.instantiations.eclipse.ui",1276925642633
+started,bundle,com.instantiations.j2ee,7.4.0.r35x201005070802,"com.instantiations.j2ee",1276925642633
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1276925642727
+started,bundle,com.instantiations.eclipse.startup,5.5.0.200910081108,"com.instantiations.eclipse.startup",1276925642727
+started,bundle,com.instantiations.eclipse.util,5.5.0.200910081108,"com.instantiations.eclipse.util",1276925642727
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1276925642743
+started,bundle,com.instantiations.common.core,5.6.0.r35x201005070739,"com.instantiations.common.core",1276925642774
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.5.0.200910081108,"com.instantiations.eclipse.usageprofiler.ui",1276925642790
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1276925642790
+started,bundle,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core",1276925642883
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1276925642977
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1276925643008
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1276925643040
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1276925643055
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1276925643243
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1276925643243
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276925806243

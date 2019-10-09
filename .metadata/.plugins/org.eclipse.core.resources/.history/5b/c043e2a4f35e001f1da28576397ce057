@@ -1,0 +1,31 @@
+package com.lzw;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedReader;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+import javax.swing.JOptionPane;
+
+public class HandleReceive extends Thread {
+
+	private Socket accept;
+
+	public HandleReceive(Socket accept) {
+		this.accept=accept;
+	}
+
+	@Override
+	public void run() {
+		InputStream stream = accept.getInputStream();
+		BufferedReader br=new BufferedReader(new InputStreamReader(stream));
+		String line = br.readLine();
+		System.out.println(line);
+		JOptionPane.showMessageDialog(null, line);
+	}
+	
+}

@@ -1,0 +1,71 @@
+package lihang;
+
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.LayoutManager;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPasswordField;
+import javax.swing.JTextField;
+
+public class LoginFrame {
+	public static void main(String[] args){
+		JFrame fr=new JFrame();
+		fr.setBounds(100, 100, 400, 420);
+		Container con=fr.getContentPane();
+		con.setLayout(null);
+		con.setBackground(Color.PINK);
+		JTextField text=new JTextField();
+		text.setBounds(150, 150, 100, 18);
+		JPasswordField password=new JPasswordField();
+		password.setBounds(150, 200, 100, 18);
+		JLabel textlabel=new JLabel("ÓÃ»§Ãû");
+		JLabel passlabel=new JLabel("ÃÜÂë");
+		textlabel.setBounds(70, 150, 70,18);
+		passlabel.setBounds(70, 200, 70,18);
+		JButton b1=new JButton("µÇÂ½");
+		b1.addActionListener(new ActionListener(){
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				LoginBean login=new LoginBean();
+				
+			}
+			
+			
+		});
+		JButton b2=new JButton("×¢²á");
+		b2.addActionListener(new ActionListener(){
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// TODO Auto-generated method stub
+				RegeditBean regedit=new RegeditBean();
+				
+			}
+			
+			
+		});
+		b1.setBackground(Color.orange);
+		b2.setBackground(Color.orange);
+		b1.setBounds(80, 250, 60, 18);
+		b2.setBounds(180, 250, 60, 18);
+		con.add(text);
+		con.add(password);
+		con.add(textlabel);
+		con.add(passlabel);
+		con.add(b1);
+		con.add(b2);
+		fr.setVisible(true);
+		fr.setResizable(false);
+		
+		
+	
+	}
+
+}

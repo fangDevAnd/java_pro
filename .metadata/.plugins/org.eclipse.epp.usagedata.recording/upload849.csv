@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390712097
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276390712128
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390731957
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390744192
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276390771004
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276390772708
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276390773020
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276390774301
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390775957
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390777113
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390777863
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390795380
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276390795412
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390797474
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390806162
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276390814085
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390818507
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390819039
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276390819242
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276390822523
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276390830507
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276390837023
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390837648
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276390853587
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276390853603

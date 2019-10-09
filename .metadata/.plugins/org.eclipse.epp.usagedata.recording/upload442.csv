@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275631822565
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275631823096
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275631826534
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275631844414
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275631845054
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275631853367
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275631989588
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632007198
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275632016260
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275632016401
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275632031979
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275632033401
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632069276
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632073245
+error,log,,,"Unhandled event loop exception",1275632073745
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632078979
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632083026
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.selectAll",1275632084932
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275632085526
+opened,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275632088213
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275632088323
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1275632097854
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632101120
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632103229
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1275632103745

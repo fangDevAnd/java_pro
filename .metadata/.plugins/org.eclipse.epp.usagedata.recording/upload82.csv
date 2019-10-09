@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1273796663348
+os,sysinfo,,,"win32",1273796663348
+arch,sysinfo,,,"x86",1273796663348
+ws,sysinfo,,,"win32",1273796663348
+locale,sysinfo,,,"zh_CN",1273796663348
+processors,sysinfo,,,"2",1273796663348
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1273796663348
+java.runtime.version,sysinfo,,,"1.6.0_17-b04",1273796663348
+java.specification.name,sysinfo,,,"Java Platform API Specification",1273796663348
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273796663348
+java.specification.version,sysinfo,,,"1.6",1273796663348
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1273796663348
+java.version,sysinfo,,,"1.6.0_17",1273796663348
+java.vm.info,sysinfo,,,"mixed mode",1273796663348
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1273796663348
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1273796663348
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273796663348
+java.vm.specification.version,sysinfo,,,"1.0",1273796663348
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1273796663348
+java.vm.version,sysinfo,,,"14.3-b01",1273796663348
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1273796663426
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1273796665270
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1273796666614
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1273796666676
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1273796667036

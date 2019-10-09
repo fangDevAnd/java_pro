@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985142971
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985143362
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985166565
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985199471
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985199862
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985203440
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985209831
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985210252
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985217752
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985227596
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985227971
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985230940
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985235049
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985237549
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985237924
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985251721
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985255909
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985256284
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985268799
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275985278877
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985279331
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985304784
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985310081
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275985394174
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275985398815

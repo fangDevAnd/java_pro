@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.version,sysinfo,,,"1.6",1275017690006
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275017690006
+java.version,sysinfo,,,"1.6.0_20",1275017690006
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275017690006
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275017690006
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1275017690006
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275017690006
+java.vm.specification.version,sysinfo,,,"1.0",1275017690006
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1275017690006
+java.vm.version,sysinfo,,,"16.3-b01",1275017690006
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1275017690788
+started,bundle,com.instantiations.common.core,5.6.0.r35x201005070739,"com.instantiations.common.core",1275017690928
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1275017691194
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1275017691647
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1275017691694
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1275017692053
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1275017692084
+started,bundle,com.instantiations.j2ee,7.4.0.r35x201005070802,"com.instantiations.j2ee",1275017692194
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1275017693194
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1275017693631
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1275017693678
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1275017693694
+started,bundle,com.instantiations.eclipse.startup,5.6.0.r35x201005070739,"com.instantiations.eclipse.startup",1275017693694
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275026277855
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1275026277863

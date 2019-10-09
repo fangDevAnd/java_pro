@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273474068259
+java.specification.version,sysinfo,,,"1.6",1273474068259
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1273474068259
+java.version,sysinfo,,,"1.6.0_17",1273474068259
+java.vm.info,sysinfo,,,"mixed mode",1273474068259
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1273474068259
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1273474068259
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1273474068259
+java.vm.specification.version,sysinfo,,,"1.0",1273474068259
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1273474068259
+java.vm.version,sysinfo,,,"14.3-b01",1273474068259
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273476264358
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273476266233
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273476345545
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273476347874
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273482762532
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273482763485
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1273482764704
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.102.v200807232000,"org.eclipse.jst.ws.axis2.consumption.ui",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.105.v200901220134,"org.eclipse.jst.ws.axis2.creation.core",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.104.v200810151442,"org.eclipse.jst.ws.axis2.consumption.core",1273482764719
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.302.v200905260749,"org.eclipse.jst.ws.axis2.ui",1273482764719

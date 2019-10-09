@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.version,sysinfo,,,"1.6.0_20",1276734327149
+java.vm.info,sysinfo,,,"mixed mode, sharing",1276734327149
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1276734327149
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1276734327149
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1276734327149
+java.vm.specification.version,sysinfo,,,"1.0",1276734327149
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1276734327149
+java.vm.version,sysinfo,,,"16.3-b01",1276734327149
+started,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.garbagecollector",1276734327211
+started,bundle,org.eclipse.equinox.p2.exemplarysetup,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.exemplarysetup",1276734327243
+started,bundle,org.eclipse.equinox.frameworkadmin,1.0.100.v20090520-1905,"org.eclipse.equinox.frameworkadmin",1276734327352
+started,bundle,org.eclipse.equinox.frameworkadmin.equinox,1.0.100.v20090520-1905,"org.eclipse.equinox.frameworkadmin.equinox",1276734327415
+started,bundle,org.eclipse.equinox.simpleconfigurator.manipulator,1.0.100.v20090520-1905,"org.eclipse.equinox.simpleconfigurator.manipulator",1276734327508
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.0.v20090520-1905,"org.eclipse.equinox.p2.updatechecker",1276734327571
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1276734328024
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1276734328149
+started,bundle,org.eclipse.emf.common,2.5.0.v200906010115,"org.eclipse.emf.common",1276734328852
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906010115,"org.eclipse.emf.ecore",1276734330555
+started,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1276734330649
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1276734330680
+started,bundle,org.eclipse.jst.jsf.common,1.1.5.v20090505,"org.eclipse.jst.jsf.common",1276734330821
+started,bundle,org.eclipse.jst.jsf.core,1.2.0.v20090514,"org.eclipse.jst.jsf.core",1276734331540
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1276734332196
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1276734332555
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.ui",1276734333008

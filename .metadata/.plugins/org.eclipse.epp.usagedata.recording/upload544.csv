@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881659875
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275881669938
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275881672422
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275881685297
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881690500
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881694704
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881696594
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881702172
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881704016
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881709250
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275881710141
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881726954
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881814469
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275881820157
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275881820329
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275881820641
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275881828032
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275881829563
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275881831407
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881833985
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881882594
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881902375
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881966344
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275881982750
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882006532

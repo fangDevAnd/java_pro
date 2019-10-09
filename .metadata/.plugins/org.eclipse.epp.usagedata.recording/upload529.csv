@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877211031
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877212671
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275877251625
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877253593
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878260735
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275878265813
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275878266891
+started,bundle,org.eclipse.mylyn.java.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.ui",1275878313313
+started,bundle,org.eclipse.pde.api.tools,1.0.100.v20090526,"org.eclipse.pde.api.tools",1275878313454
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.100.v20090526,"org.eclipse.pde.api.tools.ui",1275878313485
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275878314125
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275878325657
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275878334282
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878335141
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878343829
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878348424
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275878355987
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275878355987
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878709362
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878727377
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275878727815
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878728127
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878744331
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275878745877
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275878752674

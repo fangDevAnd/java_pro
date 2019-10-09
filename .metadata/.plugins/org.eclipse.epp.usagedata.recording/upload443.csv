@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1275632103901
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275632107573
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1275632113823
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1275632114463
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275632115385
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1275632119463
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275632119885
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632124370
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632128745
+error,log,,,"Unhandled event loop exception",1275632129057
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632147620
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632167276
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1275632167448
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632178760
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632179713
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275632190526
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275632202932
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275632209041
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275632211588
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275632214916
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275632216120
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632216510
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632218120
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275632219729
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275632219776

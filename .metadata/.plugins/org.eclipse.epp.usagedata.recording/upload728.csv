@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066059511
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066066558
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066090152
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276066092497
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066093372
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276066095606
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066096090
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.rename",1276066096106
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276066099231
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276066099825
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276066102606
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066103293
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066103872
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066104012
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066129732
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1276066136341
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276066144826
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276066146013
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066146498
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066147123
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066148123
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276066648525
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textStart",1276066651291
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1276066653494
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276066658337

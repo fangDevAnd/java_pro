@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274678414397
+java.specification.version,sysinfo,,,"1.6",1274678414397
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1274678414397
+java.version,sysinfo,,,"1.6.0_20",1274678414397
+java.vm.info,sysinfo,,,"mixed mode, sharing",1274678414397
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1274678414397
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1274678414397
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274678414397
+java.vm.specification.version,sysinfo,,,"1.0",1274678414397
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1274678414397
+java.vm.version,sysinfo,,,"16.3-b01",1274678414397
+started,bundle,com.instantiations.common.core,5.6.0.r35x201005070739,"com.instantiations.common.core",1274678414616
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1274678414803
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1274678415053
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1274678415397
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1274678415428
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1274678415506
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1274678415991
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1274678416053
+started,bundle,com.instantiations.j2ee,7.4.0.r35x201005070802,"com.instantiations.j2ee",1274678416147
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1274678416756
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1274678417741
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1274678417881
+started,bundle,com.instantiations.eclipse.startup,5.6.0.r35x201005070739,"com.instantiations.eclipse.startup",1274678417881
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1274678417913

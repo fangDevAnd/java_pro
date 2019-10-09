@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将 1 个元素移至 “实例018  把异常与错误信息显示到窗体中/src”&#x0D;&#x0A;－ 原始项目：“实例018  把异常与错误信息显示到窗体中”&#x0D;&#x0A;－ 目标元素：“实例018  把异常与错误信息显示到窗体中/src”&#x0D;&#x0A;－ 原始元素：“Text.java”&#x0D;&#x0A;－ 更新对已重构元素的引用" description="移动文件" destination="/src" element1="Text.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1279354914348" units="0" version="1.0"/>
+</session>

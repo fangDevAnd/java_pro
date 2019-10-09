@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1275270100605
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1275270100636
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1275270100636
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1275270100683
+os,sysinfo,,,"win32",1275270100683
+arch,sysinfo,,,"x86",1275270100683
+ws,sysinfo,,,"win32",1275270100683
+locale,sysinfo,,,"zh_CN",1275270100683
+processors,sysinfo,,,"2",1275270100683
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275270100683
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275270100683
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275270100683
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275270100683
+java.specification.version,sysinfo,,,"1.6",1275270100683
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275270100683
+java.version,sysinfo,,,"1.6.0_20",1275270100683
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275270100683
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275270100683
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1275270100683
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275270100683
+java.vm.specification.version,sysinfo,,,"1.0",1275270100683
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1275270100683
+java.vm.version,sysinfo,,,"16.3-b01",1275270100683
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1275270100824
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1275270100949

@@ -1,0 +1,61 @@
+package com.lzw;
+import static org.tanukisoftware.wrapper.WrapperManager.*;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
+
+import org.tanukisoftware.wrapper.WrapperListener;
+import org.tanukisoftware.wrapper.WrapperManager;
+
+public class Fete extends JFrame implements WrapperListener {
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Fete frame = new Fete();
+					frame.setVisible(true);
+					System.out.println(3434);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public Fete() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 466, 318);
+		setLocationRelativeTo(null);
+	}
+
+	@Override
+	public void controlEvent(int event) {
+		if (event == WRAPPER_CTRL_C_EVENT || event == WRAPPER_CTRL_CLOSE_EVENT
+				|| event == WRAPPER_CTRL_LOGOFF_EVENT
+				|| event == WRAPPER_CTRL_SHUTDOWN_EVENT) {
+			WrapperManager.stop(0);
+		}
+	}
+
+	@Override
+	public Integer start(String[] arg0) {
+		JOptionPane.showMessageDialog(null, "Æô¶¯À²");
+		System.out.println("Æô¶¯À²");
+		return null;
+	}
+
+	@Override
+	public int stop(int arg0) {
+		JOptionPane.showMessageDialog(null, "Í£Ö¹À²");
+		return arg0;
+	}
+}

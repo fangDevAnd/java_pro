@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1276997005008
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1276997005024
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1276997005055
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1276997005133
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1276997005133
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997022789
+started,bundle,com.instantiations.designer.runtime.lib,7.4.0.r35x201005090400,"com.instantiations.designer.runtime.lib",1276997022945
+started,bundle,com.instantiations.designer.rcp.nebula,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.nebula",1276997023109
+started,bundle,com.instantiations.designer.gwt.GWTExt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.GWTExt",1276997023117
+started,bundle,com.instantiations.designer.swing.hc,7.4.0.r35x201005090414,"com.instantiations.designer.swing.hc",1276997023148
+started,bundle,com.instantiations.designer.swing.FormLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout",1276997023156
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1276997023265
+started,bundle,org.eclipse.pde,3.4.100.v200906111540,"org.eclipse.pde",1276997023281
+started,bundle,com.instantiations.designer.core.apiImpl,7.4.0.r35x201005090400,"com.instantiations.designer.core.apiImpl",1276997024786
+started,bundle,com.instantiations.designer.rcp.swing2swt,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.swing2swt",1276997024958
+started,bundle,com.instantiations.designer.rcp.GroupLayout,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.GroupLayout",1276997024965
+started,bundle,com.instantiations.designer.layout.group,7.4.0.r35x201005090408,"com.instantiations.designer.layout.group",1276997028174
+started,bundle,com.instantiations.designer.swing.java6,7.4.0.r35x201005090414,"com.instantiations.designer.swing.java6",1276997028198
+started,bundle,com.instantiations.designer.swing.MigLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout.lib",1276997028206
+started,bundle,com.instantiations.designer.swing.MigLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout",1276997028206
+started,bundle,com.instantiations.designer.swing.FormLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout.lib",1276997028416
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997028656
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276997033536
+started,bundle,com.instantiations.designer.os,7.4.0.r35x201005090400,"com.instantiations.designer.os",1276997034200
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997036286

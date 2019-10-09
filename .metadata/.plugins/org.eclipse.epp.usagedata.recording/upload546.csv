@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882464762
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882484122
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882533887
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882545231
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882552309
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882568762
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275882569215
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882569559
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275882572122
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275882577200
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275882579122
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275882584481
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275882589950
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275882601606
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275882611559
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275882618474
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275886363883
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1275886363946
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275886413091
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275886429248
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1275886466482
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1275886466685
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1275886472951
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1275886473154
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1275886473326

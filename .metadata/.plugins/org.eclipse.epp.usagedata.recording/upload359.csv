@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275352933206
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275352935924
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275352944409
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275352944409
+started,bundle,org.eclipse.jst.servlet.ui,1.1.300.v200902191739,"org.eclipse.jst.servlet.ui",1275352944784
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1275352947862
+started,bundle,com.instantiations.common.ui,5.6.0.r35x201005070739,"com.instantiations.common.ui",1275352948331
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1275352948487
+started,bundle,com.instantiations.designer.rcp.databinding,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.databinding",1275352949315
+started,bundle,com.instantiations.designer.swing.databinding,7.4.0.r35x201005090414,"com.instantiations.designer.swing.databinding",1275352949346
+started,bundle,com.instantiations.designer.core.databinding,7.4.0.r35x201005090400,"com.instantiations.designer.core.databinding",1275352949346
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1275352949877
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1275352950081
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275352951112
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1275352951768
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1275352951877
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275352951971
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1275352952002
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.200.v20090526-2130,"org.eclipse.jdt.apt.pluggable.core",1275352952018
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1275352952127
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275352963627
+started,bundle,com.instantiations.designer.runtime.lib,7.4.0.r35x201005090400,"com.instantiations.designer.runtime.lib",1275352963799
+started,bundle,com.instantiations.designer.gwt.GWTExt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.GWTExt",1275352964002
+started,bundle,com.instantiations.designer.rcp.nebula,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.nebula",1275352964018
+started,bundle,com.instantiations.designer.swing.FormLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout",1275352964034

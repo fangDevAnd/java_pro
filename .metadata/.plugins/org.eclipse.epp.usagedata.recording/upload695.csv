@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051268590
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276051273403
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276051273403
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051867747
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051869887
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051875465
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276051878231
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276051878231
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.closeAll",1276051878293
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1276051881106
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051885372
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276051885606
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051887543
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051892387
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051908387
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.newWizard",1276051908403
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276051909247
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276051909372
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051912309
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051912731
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051955075
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051958481
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051960309
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276051967122
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276052015715

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331270192
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331277458
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331278645
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331288223
+error,log,,,"Designer [7.4.0.r35x201005090400]: 3",1276331378286
+error,log,,,"Unhandled event loop exception",1276331378286
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276331447098
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331450536
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331450958
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331455176
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331458098
+opened,view,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.views.ProblemView",1276331478739
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1276331478739
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1276331480833
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276331481004
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331482973
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276331483364
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276331508754
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276331517754
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1276331527114
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1276331527629
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276331528645
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276331529895
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineEnd",1276331537583
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276331542926

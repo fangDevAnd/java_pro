@@ -1,0 +1,19 @@
+package com.lzw;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+
+public class Receive {
+	public Receive() {
+		try {
+			ServerSocket server = new ServerSocket(9528);
+			while (!server.isClosed()) {
+				Socket accept = server.accept();
+
+			}
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+}

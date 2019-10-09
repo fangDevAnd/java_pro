@@ -1,0 +1,13 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1274758318923
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274758318923
+java.vm.specification.version,sysinfo,,,"1.0",1274758318923
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1274758318923
+java.vm.version,sysinfo,,,"16.3-b01",1274758318923
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274758325767
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274758327533
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274758327814
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1274758329923
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1274758329923
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1274758329939
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1274758329939

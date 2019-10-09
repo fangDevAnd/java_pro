@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635312492
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635319757
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635320726
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635325012
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635325028
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635457263
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273635461060
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273641822973
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273641822989
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1273641823161
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273642556578
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273642558390
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273644115673
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1273644129642
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1273644135189
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1273644137533
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273644139345
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273644139689
+error,log,,,"Designer [7.4.0.r35x201005090400]: 205 (Unable to parse source.). \tprivate javax.swing.JLabel getLabel() {\r\n\t\tif (label == null) {\r\n\t\t\tlabel = com.jgoodies.forms.factories.DefaultComponentFactory.getInstance().createLabel(""New JGoodies label"");\r\n\t\t}\r\n\t\treturn label;\r\n\t}\r\n",1273644151939
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273644163689
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273644165189
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273644165564
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1273644167923
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1273644168126
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1273644170298

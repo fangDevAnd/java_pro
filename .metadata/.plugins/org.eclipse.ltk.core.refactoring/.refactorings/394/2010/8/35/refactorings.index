@@ -1,0 +1,9 @@
+1282702652597	内联方法“getLoginButton”
+1282702662863	抽取局部变量“loginButton2”
+1282702668113	内联方法“getLoginButton”
+1282703350801	抽取局部变量“jContentPane2”
+1282703354676	内联方法“getJContentPane”
+1282703373489	抽取局部变量“loginPanel2”
+1282703377848	内联方法“getLoginPanel”
+1282703394458	内联方法“initialize”
+1282788351196	复制编译单元

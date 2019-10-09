@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276924540886
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textEnd",1276924543371
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276924543511
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276924544027
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textEnd",1276924546417
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textStart",1276924548277
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276924550636
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textEnd",1276924551433
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276924570527
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276924579121
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276924581277
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276925143964
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276925145277
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276925148480
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276925149027
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276925150902
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276925151964
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155011
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155105
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155183
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155277
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155355
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276925155449
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276925155917
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276925157042

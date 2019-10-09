@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628946208
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628949927
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628996568
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275629010619
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629013697
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629018650
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629200978
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629265978
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629279572
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629284759
+error,log,,,"Unable to create editor ID org.eclipse.jdt.ui.ClassFileEditor: Unmatched braces in the pattern.",1275629303421
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629303421
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629303421
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629303500
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275629306031
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629306031
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629308140
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629330312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629341234
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275629343812
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.project.cleanAction",1275629343843
+error,log,,,"Unable to create editor ID org.eclipse.jdt.ui.ClassFileEditor: Unmatched braces in the pattern.",1275629351062
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629351078
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629351078
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275629351140

@@ -1,0 +1,13 @@
+package com.lzw;
+
+public class TestSend {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+processors,sysinfo,,,"2",1275277269484
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275277269484
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275277269484
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275277269484
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275277269484
+java.specification.version,sysinfo,,,"1.6",1275277269484
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275277269484
+java.version,sysinfo,,,"1.6.0_20",1275277269484
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275277269484
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275277269484
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1275277269484
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275277269484
+java.vm.specification.version,sysinfo,,,"1.0",1275277269484
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1275277269484
+java.vm.version,sysinfo,,,"16.3-b01",1275277269484
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1275277269484
+started,bundle,com.instantiations.j2ee,7.2.0.200910081128,"com.instantiations.j2ee",1275277269484
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1275277269546
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1275277269562
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1275277269656
+started,bundle,com.instantiations.eclipse.startup,5.6.0.r35x201005070739,"com.instantiations.eclipse.startup",1275277269656
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275277395243
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275277420290
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275277428540
+started,bundle,org.eclipse.mylyn.java.tasks,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.java.tasks",1275277428743

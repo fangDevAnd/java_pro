@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276400798634
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276400800478
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276400800509
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276400801603
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276400801603
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276400806134
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400806634
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276400812759
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1276400816806
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400826775
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400826806
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400836291
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276400836291
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400851697
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400853369
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276400853384
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400855541
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400856119
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276400856150
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400857431
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400857947
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276400857962
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400866869
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276400868072
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276400868119

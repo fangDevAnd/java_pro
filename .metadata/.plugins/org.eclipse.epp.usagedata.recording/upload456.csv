@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275640627572
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640627666
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640628197
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275640664072
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275640737525
+error,log,,,"Designer [7.4.0.r35x201005090400]: 2",1275640743337
+error,log,,,"Designer [7.4.0.r35x201005090400]: java.lang.ArrayIndexOutOfBoundsException: 2",1275640743619
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640748572
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640749087
+error,log,,,"Designer [7.4.0.r35x201005090400]: 2",1275640749275
+error,log,,,"Unhandled event loop exception",1275640749275
+error,log,,,"Designer [7.4.0.r35x201005090400]: 2",1275640754478
+error,log,,,"Unhandled event loop exception",1275640754478
+error,log,,,"Designer [7.4.0.r35x201005090400]: 2",1275640757681
+error,log,,,"Unhandled event loop exception",1275640757697
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275640758806
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640758931
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640759478
+error,log,,,"Designer [7.4.0.r35x201005090400]: 2",1275640764791
+error,log,,,"Designer [7.4.0.r35x201005090400]: java.lang.ArrayIndexOutOfBoundsException: 2",1275640765072
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275640771056
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275640772494
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275640776447
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640778643
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275640779206

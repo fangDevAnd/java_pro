@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997152051
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997154637
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1276997158817
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997158958
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997159356
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276997164145
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997171356
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997171372
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276997172301
+no handler,command,org.eclipse.datatools.sqltools.result.ui,,"org.eclipse.datatools.sqltools.result.removeAllInstances",1276997173176
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997174465
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997174754
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1276997177020
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276997178083
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997178728
+started,bundle,org.eclipse.wst.common.emf,1.1.300.v200905060430,"org.eclipse.wst.common.emf",1276997179568
+started,bundle,org.eclipse.jst.j2ee.core,1.1.300.v200905060430,"org.eclipse.jst.j2ee.core",1276997179568
+started,bundle,org.eclipse.jem,2.0.300.v200901272200,"org.eclipse.jem",1276997179599
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v200906010115,"org.eclipse.emf.ecore.xmi",1276997179599
+started,bundle,org.eclipse.jst.jee,1.0.200.v200905290632,"org.eclipse.jst.jee",1276997180427
+started,bundle,org.eclipse.jpt.core,2.2.0.v200906070220,"org.eclipse.jpt.core",1276997180466
+started,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1276997180474
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1276997180513
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks.ui",1276997180537
+started,bundle,org.eclipse.wst.xml.core,1.1.400.v200904300540,"org.eclipse.wst.xml.core",1276997180544

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1275611277064
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1275611277064
+started,bundle,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui",1275611277064
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1275611277064
+started,bundle,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.ui.ide",1275611277064
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1275611277064
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1275611277064
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1275611277064
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1275611277064
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1275611277064
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1275611277064
+os,sysinfo,,,"win32",1275611277064
+arch,sysinfo,,,"x86",1275611277064
+ws,sysinfo,,,"win32",1275611277064
+locale,sysinfo,,,"zh_CN",1275611277064
+processors,sysinfo,,,"2",1275611277064
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275611277064
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275611277064
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275611277064
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275611277064
+java.specification.version,sysinfo,,,"1.6",1275611277064
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275611277064
+java.version,sysinfo,,,"1.6.0_20",1275611277064
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275611277064
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275611277064

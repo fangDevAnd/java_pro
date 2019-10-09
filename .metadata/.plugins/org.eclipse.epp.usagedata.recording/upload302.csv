@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1275276703124
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1275276703155
+started,bundle,com.instantiations.eclipse.startup,5.6.0.r35x201005070739,"com.instantiations.eclipse.startup",1275276703155
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276760702
+error,log,,,"在“写 BeanInfo 高速缓存文件”期间发生了内部错误。",1275276761045
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276761608
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276767374
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275276773045
+closed,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275276773045
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1275276777611
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1275276777611
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276778283
+error,log,,,"Unable to load the repository http://download.eclipse.org/webtools/updates",1275276778330
+error,log,,,"Unable to load the repository jar:file:/E:/部门空间/部门专用工具/开发工具/SWT&Jface/WBPro_v7.4.0_for_Eclipse3.5.zip!/",1275276778767
+error,log,,,"Unable to load the repository http://download.eclipse.org/technology/epp/packages/galileo",1275276778861
+error,log,,,"Unable to load the repository jar:file:/C:/Users/Administrator/Desktop/lzw/VE-Update-1.4.0.zip!/",1275276779001
+error,log,,,"Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/",1275276779064
+error,log,,,"Unable to load the repository http://download.eclipse.org/eclipse/updates/3.5",1275276779126
+error,log,,,"Unable to load the repository http://download.eclipse.org/releases/galileo",1275276779205
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276798564
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1275276798595
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276800564
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276801830
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276801845
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275276803564

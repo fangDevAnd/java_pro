@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1276998519906
+java.vm.version,sysinfo,,,"16.3-b01",1276998519906
+started,bundle,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui",1276998519984
+started,bundle,org.eclipse.mylyn.team.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.team.ui",1276998520000
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1276998520015
+started,bundle,org.eclipse.wst.ws.service.policy.ui,1.0.102.v200903070248,"org.eclipse.wst.ws.service.policy.ui",1276998520015
+started,bundle,com.instantiations.j2ee,7.2.0.200910081128,"com.instantiations.j2ee",1276998520031
+started,bundle,org.eclipse.mylyn.monitor.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.monitor.ui",1276998520046
+started,bundle,com.instantiations.eclipse.debug,5.5.0.200910081108,"com.instantiations.eclipse.debug",1276998520062
+started,bundle,com.instantiations.eclipse.startup,5.5.0.200910081108,"com.instantiations.eclipse.startup",1276998520062
+started,bundle,com.instantiations.eclipse.usageprofiler,5.5.0.200910081108,"com.instantiations.eclipse.usageprofiler",1276998520109
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.5.0.200910081108,"com.instantiations.eclipse.usageprofiler.ui",1276998520140
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1276998520187
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1276998520187
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1276998520218
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1276998520281
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1276998520281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276998537406
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276998578946
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276998580352
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276998581976
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276998583747
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276998583809
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276998583809
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276998587802

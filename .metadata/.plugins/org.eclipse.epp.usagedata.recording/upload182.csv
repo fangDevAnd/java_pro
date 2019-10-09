@@ -1,0 +1,14 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1274747992615
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1274747992662
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1274747992708
+started,bundle,com.instantiations.eclipse.startup,5.6.0.r35x201005070739,"com.instantiations.eclipse.startup",1274747992708
+started,bundle,com.instantiations.eclipse.util,5.6.0.r35x201005070739,"com.instantiations.eclipse.util",1274747992724
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750874997
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750876997
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750877075
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750880997
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750881043
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750882528
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1274750882793
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1274750884247

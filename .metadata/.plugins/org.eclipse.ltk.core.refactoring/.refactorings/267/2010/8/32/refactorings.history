@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将“MessageDialog.MessageDialog()”中的局部变量“MessageDialog.MessageDialog().bg”转换为字段&#x0D;&#x0A;－ 原始项目：“实例022  信息提示对话框”&#x0D;&#x0A;－ 原始元素：“MessageDialog.MessageDialog().bg”&#x0D;&#x0A;－ 字段名称：“bg”&#x0D;&#x0A;－ 初始化方法中的字段&#x0D;&#x0A;－ 已声明可视性：“private”" description="将局部变量“bg”转换为字段" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{MessageDialog.java" name="bg" selection="3755 20" stamp="1280978167763" static="false" version="1.0" visibility="2"/>
+</session>

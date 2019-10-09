@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828886121
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828888339
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828931292
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828932940
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828933487
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276828933971
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828934752
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276828937565
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828937940
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.rename",1276828937971
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276828938909
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276828941627
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276828943924
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828944659
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828945440
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276828945956
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276830619079
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276830620954
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276830620954
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.closeAll",1276830621047
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276830625454
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276830626344
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276830628344
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1276830633969
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1276830634500

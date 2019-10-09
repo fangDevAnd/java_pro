@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276927236614
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1276927236692
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1276927236692
+started,bundle,org.eclipse.jdt.debug,3.5.0.v20090526,"org.eclipse.jdt.debug",1276927237629
+started,bundle,org.eclipse.jdt.debug.ui,3.4.0.v20090527,"org.eclipse.jdt.debug.ui",1276927237723
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276927237739
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1276927237895
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276927335176
+started,bundle,com.instantiations.designer.runtime.lib,7.4.0.r35x201005090400,"com.instantiations.designer.runtime.lib",1276927335317
+started,bundle,com.instantiations.designer.rcp.nebula,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.nebula",1276927335520
+started,bundle,com.instantiations.designer.gwt.GWTExt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.GWTExt",1276927335536
+started,bundle,com.instantiations.designer.swing.hc,7.4.0.r35x201005090414,"com.instantiations.designer.swing.hc",1276927335551
+started,bundle,com.instantiations.designer.swing.FormLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout",1276927335551
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1276927335723
+started,bundle,org.eclipse.pde,3.4.100.v200906111540,"org.eclipse.pde",1276927335739
+started,bundle,com.instantiations.designer.core.apiImpl,7.4.0.r35x201005090400,"com.instantiations.designer.core.apiImpl",1276927338036
+started,bundle,com.instantiations.designer.rcp.swing2swt,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.swing2swt",1276927338739
+started,bundle,com.instantiations.designer.rcp.GroupLayout,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.GroupLayout",1276927338739
+started,bundle,com.instantiations.designer.layout.group,7.4.0.r35x201005090408,"com.instantiations.designer.layout.group",1276927343879
+started,bundle,com.instantiations.designer.swing.java6,7.4.0.r35x201005090414,"com.instantiations.designer.swing.java6",1276927343895
+started,bundle,com.instantiations.designer.swing.MigLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout.lib",1276927343911
+started,bundle,com.instantiations.designer.swing.MigLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout",1276927343911
+started,bundle,com.instantiations.designer.swing.FormLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout.lib",1276927344098
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276927344442
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.textEnd",1276927344489

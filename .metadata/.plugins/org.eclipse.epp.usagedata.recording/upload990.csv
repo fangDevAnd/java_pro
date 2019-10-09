@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1276907007241
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1276907007241
+java.specification.name,sysinfo,,,"Java Platform API Specification",1276907007241
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1276907007241
+java.specification.version,sysinfo,,,"1.6",1276907007241
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1276907007241
+java.version,sysinfo,,,"1.6.0_20",1276907007241
+java.vm.info,sysinfo,,,"mixed mode, sharing",1276907007241
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1276907007241
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1276907007241
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1276907007241
+java.vm.specification.version,sysinfo,,,"1.0",1276907007241
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1276907007241
+java.vm.version,sysinfo,,,"16.3-b01",1276907007241
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1276907007319
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1276907007413
+started,bundle,org.eclipse.emf.common,2.5.0.v200906010115,"org.eclipse.emf.common",1276907007584
+started,bundle,org.eclipse.emf.ecore,2.5.0.v200906010115,"org.eclipse.emf.ecore",1276907007913
+started,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1276907007944
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1276907007975
+started,bundle,org.eclipse.jst.jsf.common,1.1.5.v20090505,"org.eclipse.jst.jsf.common",1276907008022
+started,bundle,org.eclipse.jst.jsf.core,1.2.0.v20090514,"org.eclipse.jst.jsf.core",1276907008053
+started,bundle,org.eclipse.mylyn.commons.net,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.net",1276907008959
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1276907009288
+started,bundle,org.eclipse.mylyn.commons.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.commons.ui",1276907009772

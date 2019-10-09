@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276160117526
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1276160117526
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160119370
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160119682
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160120010
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1276160120354
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160250385
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160270182
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160275401
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160281026
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160283596
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160291346
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1276160294127
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160297581
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276160300002
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276160313627
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.source.quickMenu",1276160332049
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu",1276160336049
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160337799
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160343627
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.move.element",1276160343659
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276160347815
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276160353424
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160354534
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276160393708

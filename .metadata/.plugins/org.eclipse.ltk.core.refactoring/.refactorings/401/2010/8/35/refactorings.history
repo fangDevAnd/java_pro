@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将“LoginFrame.LoginFrame()”中的局部变量“LoginFrame.LoginFrame().button”转换为字段&#x0D;&#x0A;－ 原始项目：“实例021  迟到的登录按钮”&#x0D;&#x0A;－ 原始元素：“LoginFrame.LoginFrame().button”&#x0D;&#x0A;－ 字段名称：“button”&#x0D;&#x0A;－ 初始化方法中的字段&#x0D;&#x0A;－ 已声明可视性：“private”" description="将局部变量“button”转换为字段" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;{LoginFrame.java" name="button" selection="2171 27" stamp="1282885440435" static="false" version="1.0" visibility="2"/>
+</session>

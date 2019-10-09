@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将方法“private void setColor(JLabel label)”从“ColorChooser.do_button1_actionPerformed()”抽取到“ColorChooser”&#x0D;&#x0A;－ 原始项目：“实例029  颜色选择对话框”&#x0D;&#x0A;－ 方法名称：“setColor”&#x0D;&#x0A;－ 目标类型：“ColorChooser”&#x0D;&#x0A;－ 已声明可视性：“private”" comments="false" description="抽取方法“setColor”" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{ColorChooser.java" name="setColor" replace="false" selection="3799 149" stamp="1281325515291" version="1.0" visibility="2"/>
+</session>

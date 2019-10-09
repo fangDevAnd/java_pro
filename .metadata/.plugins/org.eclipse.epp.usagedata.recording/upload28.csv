@@ -1,0 +1,12 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to load the repository jar:file:/C:/Users/Administrator/Desktop/lzw/VE-Update-1.4.0.zip!/",1273557300958
+error,log,,,"Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/",1273557300989
+error,log,,,"Unable to load the repository http://download.eclipse.org/eclipse/updates/3.5",1273557301036
+error,log,,,"Unable to load the repository http://download.eclipse.org/releases/galileo",1273557301083
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.artifact.repository",1273557313333
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273557324208
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1273557324254
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273557325754
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273557405379
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273557407770
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.restartWorkbench",1273557408629

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973616893
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973617331
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.designer.core.utils.exception.DesignerException: 205 (Unable to parse source.). System.out.println(getContentPane());",1275973617377
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973624049
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973624096
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275973629518
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973634659
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973853784
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973859690
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973881956
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973890315
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973890612
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973892143
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275973893674
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275973896502
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275973897331
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275973900002
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973904909
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973905190
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275973916831
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275973918752
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275973920987
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275973924174
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275973925909
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275973946487

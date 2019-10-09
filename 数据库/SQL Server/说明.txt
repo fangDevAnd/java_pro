@@ -1,0 +1,5 @@
+数据库db_database17_Data为SQL 2000。
+数据库db_database21_Data为SQL 2000。
+数据库db_database22_Data为SQL 
+数据库db_database23_Data为SQL 
+数据库db_database24_Data为SQL 

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275628721238
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275628722378
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275628727269
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628742972
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628765800
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275628773878
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275628815910
+error,log,,,"Unable to create editor ID org.eclipse.jdt.ui.ClassFileEditor: Unmatched braces in the pattern.",1275628826363
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275628826457
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275628826472
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275628826628
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275628829753
+closed,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.ClassFileEditor",1275628829769
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628833957
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628839972
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628886800
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628891707
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628894832
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628904957
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628906818
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628907912
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275628914083
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275628922021
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275628931521
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275628933583

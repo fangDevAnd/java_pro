@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.version,sysinfo,,,"1.6.0_20",1275441309681
+java.vm.info,sysinfo,,,"mixed mode, sharing",1275441309681
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1275441309681
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1275441309681
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275441309681
+java.vm.specification.version,sysinfo,,,"1.0",1275441309681
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1275441309681
+java.vm.version,sysinfo,,,"16.3-b01",1275441309681
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1275441313150
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275441313150
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.close",1275441313212
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275441319416
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275441319416
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1275441320869
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441324947
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441352134
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441373353
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441722534
+activated,view,org.eclipse.mylyn.tasks.ui,3.2.0.v20090617-0100-e3x,"org.eclipse.mylyn.tasks.ui.views.tasks",1275441725268
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441727674
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275441746440
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1275441753362
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275441755643
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275441755643
+error,log,,,"属性测试对象未将 org.eclipse.core.resources.open 属性添加至 class org.eclipse.jdt.internal.core.JavaProject 类型",1275441755643

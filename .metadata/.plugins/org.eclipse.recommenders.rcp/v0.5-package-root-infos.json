@@ -1,0 +1,2732 @@
+[
+  {
+    "symbolicName": "ojdbc6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5b371965872f89ed74702ceec901b12f0074081e",
+    "jarFileModificationDate": "2013-11-18T11:20:57.768+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\528\\lib\\ojdbc6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "PDFRenderer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da7e5d48afadcfa3c87fae1ff5c432d7dca8250e",
+    "jarFileModificationDate": "2013-11-18T09:37:33.165+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\489\\lib\\PDFRenderer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4216af16d38465bbab0f3dff8efa14204f7a399a",
+    "jarFileModificationDate": "2013-11-18T14:43:08.479+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\241\\lib\\commons-codec-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\535\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:40:38.584+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\226\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:36:21.944+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\220\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\596\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:44:27.022+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\245\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.mail.mail",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "36b5cee9ec42001a3d0358fdd75e99274e2599fb",
+    "jarFileModificationDate": "2013-11-15T13:47:54.160+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\244\\lib\\mail.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\532\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msutil",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0478d727aa4c60c1fbd839a5174629bd5566a2a6",
+    "jarFileModificationDate": "2013-11-15T14:58:44.459+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\422\\lib\\msutil.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ant",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9746af1a485e50cf18dcb232489032a847067066",
+    "jarFileModificationDate": "2013-11-15T15:00:01.160+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\458\\lib\\ant.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\517\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "PDFRenderer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da7e5d48afadcfa3c87fae1ff5c432d7dca8250e",
+    "jarFileModificationDate": "2013-11-18T09:38:33.475+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\487\\lib\\PDFRenderer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\590\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:35:13.526+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\216\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\544\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.email",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6cd5d2b5c11d2898b901e3162d825b804699187d",
+    "jarFileModificationDate": "2013-11-15T13:49:27.816+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\243\\lib\\commons-email-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:40:21.464+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\224\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\568\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:40:24.965+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\225\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\506\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:40:09.283+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\223\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8bc3269a6361f0f43642163589be42d6db2ab47d",
+    "jarFileModificationDate": "2012-03-01T11:50:21.101+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:35:49.351+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\218\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:54:54.495+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\236\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\513\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\560\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:30:59.213+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\104\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\534\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.mail.mail",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "36b5cee9ec42001a3d0358fdd75e99274e2599fb",
+    "jarFileModificationDate": "2013-11-15T13:47:54.160+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\243\\lib\\mail.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99205532ad01ab8e5e50a8773b1c8761d5870786",
+    "jarFileModificationDate": "2012-03-01T11:50:21.098+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4216af16d38465bbab0f3dff8efa14204f7a399a",
+    "jarFileModificationDate": "2013-11-18T14:44:00.847+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\242\\lib\\commons-codec-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\496\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2013-11-15T13:54:54.484+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\235\\lib\\commons-beanutils-1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "JWizardComponent",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "55bf67eb5c04bdc8f13e09c1ec39cfcf5546f91d",
+    "jarFileModificationDate": "2013-11-18T14:46:12.291+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\320\\lib\\JWizardComponent.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T14:20:57.651+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\232\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:39:50.968+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\222\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "iText-5.0.5",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "56585fcc1135e93b7a4cb76c91593a199dc38f4b",
+    "jarFileModificationDate": "2013-11-18T09:43:36.886+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\485\\lib\\iText-5.0.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\494\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2013-11-15T13:54:54.484+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\236\\lib\\commons-beanutils-1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:30:41.125+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\106\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\541\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "PDFRenderer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da7e5d48afadcfa3c87fae1ff5c432d7dca8250e",
+    "jarFileModificationDate": "2013-11-18T09:39:37.631+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\486\\lib\\PDFRenderer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\548\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\553\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\601\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "sqljdbc4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ecc4bc5c567954cdd1acd3c5985555c8d0355bb0",
+    "jarFileModificationDate": "2013-11-18T11:19:35.811+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\527\\lib\\sqljdbc4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T14:58:21.705+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\426\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\586\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "derby",
+    "version": {
+      "major": 10,
+      "minor": 3,
+      "micro": 1000004,
+      "qualifier": "561794"
+    },
+    "jarFileFingerprint": "1276b5d62729021149c4a4d5412fb36ace623561",
+    "jarFileModificationDate": "2013-11-18T11:23:35.641+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\529\\lib\\derby.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\594\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\501\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T14:57:59.205+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\421\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\476\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\584\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T13:32:41.593+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\186\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\519\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\566\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\477\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\510\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\492\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:36:08.193+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\219\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\563\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cdf378c590ce2a8fec2a8c2ed74033ebf1832ba1",
+    "jarFileModificationDate": "2012-03-01T11:50:30.843+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\583\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\512\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mssqlserver",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0df7ebd1bac49d4c1ea2ac810bd47ca36f292c90",
+    "jarFileModificationDate": "2013-11-15T14:58:44.458+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\422\\lib\\mssqlserver.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+    "jarFileModificationDate": "2013-11-15T14:27:06.732+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\229\\lib\\commons-io-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.dbutils",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2c84599251eb0c29f9d4276fa56de4169402815b",
+    "jarFileModificationDate": "2013-11-15T13:52:47.566+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\239\\lib\\commons-dbutils-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mssqlserver",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0df7ebd1bac49d4c1ea2ac810bd47ca36f292c90",
+    "jarFileModificationDate": "2013-11-15T14:58:38+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\425\\lib\\mssqlserver.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\591\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e10f94f30ea064eee3cb94f864dc9c31e30e8af",
+    "jarFileModificationDate": "2013-11-15T13:54:54.493+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\234\\lib\\commons-collections-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "PDFRenderer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da7e5d48afadcfa3c87fae1ff5c432d7dca8250e",
+    "jarFileModificationDate": "2013-11-18T09:35:05.767+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\490\\lib\\PDFRenderer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-19T11:28:59.477+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\482\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.dbutils",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2c84599251eb0c29f9d4276fa56de4169402815b",
+    "jarFileModificationDate": "2013-11-15T13:52:47.566+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\238\\lib\\commons-dbutils-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\546\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\567\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:29:38.853+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\116\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+    "jarFileModificationDate": "2013-11-15T14:21:46.026+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\232\\lib\\commons-io-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\549\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.configuration",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "32cadde23955d7681b0d94a2715846d20b425235",
+    "jarFileModificationDate": "2013-11-20T09:58:53.037+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\245\\lib\\commons-configuration-1.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\582\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\564\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\580\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "activation",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8acf42612ad530a4fbf4058982555394298b4ed8",
+    "jarFileModificationDate": "2013-11-15T13:47:54.144+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\243\\lib\\activation.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T13:53:41.992+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\239\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\531\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e10f94f30ea064eee3cb94f864dc9c31e30e8af",
+    "jarFileModificationDate": "2013-11-15T13:54:54.493+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\233\\lib\\commons-collections-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\593\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8681fdda4a4de59b88e28b772efa1871df6b9d87",
+    "jarFileModificationDate": "2012-03-01T11:50:27.511+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\507\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\571\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msbase",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "959371d2cfab2fb6a837ccd3cda57fb1fa6601d6",
+    "jarFileModificationDate": "2013-11-15T14:58:44.457+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\422\\lib\\msbase.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\530\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f56383db77ae9502e6ca617e57d55ee73d631c46",
+    "jarFileModificationDate": "2012-03-01T11:50:21.080+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\495\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ant",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9746af1a485e50cf18dcb232489032a847067066",
+    "jarFileModificationDate": "2013-11-15T15:01:15.990+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\459\\lib\\ant.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\589\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\573\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\588\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\574\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+    "jarFileModificationDate": "2013-11-15T14:27:28.541+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\228\\lib\\commons-io-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\515\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\602\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\577\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\505\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\511\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.dbutils",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2c84599251eb0c29f9d4276fa56de4169402815b",
+    "jarFileModificationDate": "2013-11-15T13:33:45.960+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\186\\lib\\commons-dbutils-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\509\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\518\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\497\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\558\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:54:54.495+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\237\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\533\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\592\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.6-20091214",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f9d1a3dd2561f6ef09e268aa284e9f0807bcc68",
+    "jarFileModificationDate": "2013-11-19T11:14:35.662+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\483\\lib\\poi-3.6-20091214.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\538\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\540\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\550\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3c4bdc2778ddccceb8da2acec3e37bfa41303e9",
+    "jarFileModificationDate": "2013-11-18T14:40:42.111+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\227\\lib\\commons-math-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.6-20091214",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f9d1a3dd2561f6ef09e268aa284e9f0807bcc68",
+    "jarFileModificationDate": "2013-11-19T11:14:35.662+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\482\\lib\\poi-3.6-20091214.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.6-20091214",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f9d1a3dd2561f6ef09e268aa284e9f0807bcc68",
+    "jarFileModificationDate": "2013-11-19T11:14:35.662+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\480\\lib\\poi-3.6-20091214.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\479\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\520\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\599\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d756166f450bd5faa7221720b1d713ec2cd4fcc5",
+    "jarFileModificationDate": "2012-03-01T11:50:21.335+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+    "jarFileModificationDate": "2013-11-15T14:22:02.050+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\231\\lib\\commons-io-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\600\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\503\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\552\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e10f94f30ea064eee3cb94f864dc9c31e30e8af",
+    "jarFileModificationDate": "2013-11-15T13:54:54.493+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\237\\lib\\commons-collections-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fa6a695cdffe2ebad8a62ab0829abc0e32db73e8",
+    "jarFileModificationDate": "2012-03-01T11:50:21.073+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\585\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\579\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msbase",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "959371d2cfab2fb6a837ccd3cda57fb1fa6601d6",
+    "jarFileModificationDate": "2013-11-15T14:58:37.981+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\425\\lib\\msbase.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:54:54.495+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\234\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\498\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-3.6-20091214",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f9d1a3dd2561f6ef09e268aa284e9f0807bcc68",
+    "jarFileModificationDate": "2013-11-19T11:22:41.641+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\481\\lib\\poi-3.6-20091214.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:44:37.854+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\245\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "119198bccd9a89f78b462d736549b44a89c5776c",
+    "jarFileModificationDate": "2012-03-01T11:50:31.328+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\545\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:54:54.495+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\233\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\547\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\597\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2013-11-15T13:54:54.484+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\237\\lib\\commons-beanutils-1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msutil",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0478d727aa4c60c1fbd839a5174629bd5566a2a6",
+    "jarFileModificationDate": "2013-11-15T14:58:41.363+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\423\\lib\\msutil.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a717cf29020f95db12fd1d37005353f92180c674",
+    "jarFileModificationDate": "2012-03-01T11:50:21.097+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2013-11-15T13:54:54.484+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\233\\lib\\commons-beanutils-1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\484\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\521\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "PDFRenderer",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da7e5d48afadcfa3c87fae1ff5c432d7dca8250e",
+    "jarFileModificationDate": "2013-11-18T09:38:11.945+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\488\\lib\\PDFRenderer.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\581\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\526\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\557\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\575\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\576\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e10f94f30ea064eee3cb94f864dc9c31e30e8af",
+    "jarFileModificationDate": "2013-11-15T13:54:54.493+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\236\\lib\\commons-collections-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\561\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:30:04.758+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\108\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\542\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.springsource.org.apache.commons.collections",
+    "version": {
+      "major": 3,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22a56ebdbf622819ab5185b4eca7f2aa935306d8",
+    "jarFileModificationDate": "2013-11-20T09:59:10.153+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\245\\lib\\commons-collections-3.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msbase",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "959371d2cfab2fb6a837ccd3cda57fb1fa6601d6",
+    "jarFileModificationDate": "2013-11-15T14:58:41.359+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\423\\lib\\msbase.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a31853a3c486908d5d1b68c3be8cf31c23f86bdf",
+    "jarFileModificationDate": "2012-03-01T11:50:21.175+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "af3be3f74d25fc5163b54f56a0d394b462dafafd",
+    "jarFileModificationDate": "2013-11-18T14:41:43.805+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\240\\lib\\commons-codec-1.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\537\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "206fbbcec662c4c53fbe1058de078c595824899c",
+    "jarFileModificationDate": "2012-03-01T11:50:26.425+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\555\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\559\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:31:23.812+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\070\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\491\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T13:53:41.992+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\238\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\493\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\502\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\569\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\595\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "msutil",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0478d727aa4c60c1fbd839a5174629bd5566a2a6",
+    "jarFileModificationDate": "2013-11-15T14:58:38.009+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\425\\lib\\msutil.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\551\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\572\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.io",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a8762d07e76cfde2395257a5da47ba7c1dbd3dce",
+    "jarFileModificationDate": "2013-11-15T14:26:19.672+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\230\\lib\\commons-io-1.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\478\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:36:28.901+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\221\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\499\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\556\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mssqlserver",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0df7ebd1bac49d4c1ea2ac810bd47ca36f292c90",
+    "jarFileModificationDate": "2013-11-15T14:58:41.361+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\423\\lib\\mssqlserver.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\500\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T11:15:32.126+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\525\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\570\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\603\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\508\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\516\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\598\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-19T11:28:59.477+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\483\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\587\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-collections-2.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e10f94f30ea064eee3cb94f864dc9c31e30e8af",
+    "jarFileModificationDate": "2013-11-15T13:54:54.493+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\235\\lib\\commons-collections-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\565\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector-java-5.1.6-bin",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "380ef5226de2c85ff3b38cbfefeea881c5fce09d",
+    "jarFileModificationDate": "2013-11-15T14:57:53.376+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\420\\lib\\mysql-connector-java-5.1.6-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\554\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.mysql.jdbc",
+    "version": {
+      "major": 5,
+      "minor": 1,
+      "micro": 20,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66a2a9c6561dc2c3c6f0b924681c305be78f3377",
+    "jarFileModificationDate": "2013-11-15T08:43:55.284+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\536\\lib\\mysql-connector-java-5.1.20-bin.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.email",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6cd5d2b5c11d2898b901e3162d825b804699187d",
+    "jarFileModificationDate": "2013-11-15T13:49:27.816+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\244\\lib\\commons-email-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-logging",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5043bfebc3db072ed80fbd362e7caf00e885d8ae",
+    "jarFileModificationDate": "2013-11-15T13:54:54.495+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\235\\lib\\commons-logging-1.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.lang",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b0236b252e86419eef20c31a44579d2aee2f0a69",
+    "jarFileModificationDate": "2013-11-15T13:35:28.343+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\217\\lib\\commons-lang-2.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\514\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-beanutils-1.7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5675fd96b29656504b86029551973d60fb41339b",
+    "jarFileModificationDate": "2013-11-15T13:54:54.484+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\234\\lib\\commons-beanutils-1.7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9152e77a1b9928a94eec26c93664520d818550ee",
+    "jarFileModificationDate": "2012-03-01T11:50:21.100+08:00",
+    "location": "C:\\Java\\jdk1.7.0_03\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\543\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "activation",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8acf42612ad530a4fbf4058982555394298b4ed8",
+    "jarFileModificationDate": "2013-11-15T13:47:54.144+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\244\\lib\\activation.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jacob",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7196fb771f3697b561dc5aaf34d4577b82b3ed97",
+    "jarFileModificationDate": "2013-11-18T09:24:13.443+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\475\\lib\\jacob.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\578\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jtds-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcee1795fd535cd7a8a8824df9e099417e8700a4",
+    "jarFileModificationDate": "2013-11-18T10:46:43.615+08:00",
+    "location": "J:\\再版图书处理\\Java开发实战1200例（第一卷）\\MR\\562\\lib\\jtds-1.2.2.jar",
+    "javaRuntime": false
+  }
+]

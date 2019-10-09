@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc811152-b420-4315-990f-eb2a4fe10c29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/Start1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/package-info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MR.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CircuitMonitoring_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CircuitMonitoring_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/CircuitMonitoring_war_exploded2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringMVC_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_1_41.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_36.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$Receiver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$Sender.class" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame$Sender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/bin/com/mingrisoft/thread/TransactionFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/179简单的线程通信/src/com/mingrisoft/thread/TransactionFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/179简单的线程通信/src/com/mingrisoft/thread/TransactionFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/184使用线程池优化多线程编程/bin/com/mingrisoft/thread/TempThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/184使用线程池优化多线程编程/bin/com/mingrisoft/thread/TempThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/184使用线程池优化多线程编程/bin/com/mingrisoft/thread/ThreadPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/184使用线程池优化多线程编程/bin/com/mingrisoft/thread/ThreadPoolTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame$Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/bin/com/mingrisoft/thread/ProducerAndConsumerFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/ProducerAndConsumerFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/ProducerAndConsumerFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/src/com/mingrisoft/codec/MD5Viewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/src/com/mingrisoft/codec/MD5Viewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/CircuitMonitoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/logs/ssm.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/dao/IUserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/mapping/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/service/IUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/java/com/javen/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/resources/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/resources/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/resources/spring-mybatis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/jsp/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/jsp/succes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/jsp/user_admin/file.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/src/test/java/com/javen/testmybatis/TestMyBatis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/CircuitMonitoring/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/classes/com/javen/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/classes/com/javen/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/classes/com/javen/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/classes/com/javen/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/classes/com/javen/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/classes/com/javen/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/classes/com/javen/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/classes/com/javen/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/classes/com/javen/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/classes/com/javen/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/jsp/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/jsp/succes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/jsp/user_admin/file.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/mybatis-3.2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/mysql-connector-java-5.1.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/maven01/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CircuitMonitoring/target/test-classes/com/javen/testmybatis/TestMyBatis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/DictController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/FirstControll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/FormTagControll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/LoadFileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/controller/ProdutController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/converter/MyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/dao/BookDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/dao/DictDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/formatter/DateFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/mapper/BookMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/mapper/DictMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/FileLoad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/SysDict.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/DictService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/impl/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/impl/DictServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/fang/demo/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/errorMessage/errors.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/BookAndForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/BookEditForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/BookList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/ImageLoad.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/ProducrtForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/ProductDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/allUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/dict_add.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/dicts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/fileList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/simpleUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/jsp/subIndex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/file/safasgfsasf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/html/postUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/img/Firefox_wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/jsp/formInputTag.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/META-INF/SpringMVC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/DictController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/FirstControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/FormTagControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/LoadFileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/controller/ProdutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/converter/MyConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/dao/BookDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/dao/DictDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/formatter/DateFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/mapper/BookMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/mapper/DictMapper.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/mapper/DictMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/FileLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/SysDict.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/DictService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/impl/DictServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/com/fang/demo/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/errorMessage/errors.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/BookAndForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/BookEditForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/BookList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/ImageLoad.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/ProducrtForm.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/ProductDetails.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/allUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/dict_add.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/dicts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/fileList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/simpleUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/jsp/subIndex.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/c3p0-0.9.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/mybatis-3.2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/mysql-connector-java-5.1.36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/file/ndk开发借口" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/file/ndk开发接口.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/file/自动化软件修改方案" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/file/项目开发实战集合.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/html/postUser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/img/Firefox_wallpaper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/SpringMVC/jsp/formInputTag.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/META-INF/SpringMVC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/BookController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/DictController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/FirstControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/FormTagControll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/LoadFileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/controller/ProdutController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/converter/MyConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/dao/BookDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/dao/DictDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/formatter/DateFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/FileLoad.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/SysDict.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/BookService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/DictService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/impl/BookServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/impl/DictServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/fang/demo/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringMVC/target/classes/spring-mvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/classes/com/javen/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/classes/com/javen/dao/IUserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/classes/com/javen/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/classes/com/javen/service/IUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/classes/com/javen/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/jsp/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/jsp/succes.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/jsp/user_admin/file.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/fastjson-1.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/mybatis-3.2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/slf4j-api-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-aop-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-beans-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-context-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-context-support-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-core-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-expression-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-jdbc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-oxm-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-test-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-tx-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-web-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/lib/spring-webmvc-4.0.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/showUser.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/CircuitMonitoring_war_exploded2/index.jsp" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/006输出星号组成的等腰三角形/bin/" />
+    <ignored path="$PROJECT_DIR$/010在eclipse编程输出字符表情/bin/" />
+    <ignored path="$PROJECT_DIR$/016设计window系统的运行/bin/" />
+    <ignored path="$PROJECT_DIR$/017设计计算器界面/bin/" />
+    <ignored path="$PROJECT_DIR$/018设计关于进销存管理系统界面设计/bin/" />
+    <ignored path="$PROJECT_DIR$/019输出错误信息和调试信息/bin/" />
+    <ignored path="$PROJECT_DIR$/020从输入台接受输入字符/bin/" />
+    <ignored path="$PROJECT_DIR$/021重定向输出流实现程序日志/bin/" />
+    <ignored path="$PROJECT_DIR$/022自动类型转换与强制类型转换/bin/" />
+    <ignored path="$PROJECT_DIR$/023位运算实现简单加密/bin/" />
+    <ignored path="$PROJECT_DIR$/024三元运算符判断奇偶数/bin/" />
+    <ignored path="$PROJECT_DIR$/025精确地浮点数/bin/" />
+    <ignored path="$PROJECT_DIR$/026位运算实现乘法运算/bin/" />
+    <ignored path="$PROJECT_DIR$/027实现变量交换(不借助第三个数字)/bin/" />
+    <ignored path="$PROJECT_DIR$/028判断某一年是否是是闰年/bin/" />
+    <ignored path="$PROJECT_DIR$/029验证登录信息的合法性/bin/" />
+    <ignored path="$PROJECT_DIR$/030为新员工分配部门/bin/" />
+    <ignored path="$PROJECT_DIR$/031使用switch语句根据消费金额计算折扣/bin/" />
+    <ignored path="$PROJECT_DIR$/032判断用户输入月份的季节/bin/" />
+    <ignored path="$PROJECT_DIR$/033使用while与自增运算符循环遍历数组/bin/" />
+    <ignored path="$PROJECT_DIR$/034使用for循环输出杨辉三角形/bin/" />
+    <ignored path="$PROJECT_DIR$/035九九乘法表/bin/" />
+    <ignored path="$PROJECT_DIR$/036while循环计算1+1/2!/bin/" />
+    <ignored path="$PROJECT_DIR$/037空心菱形/bin/" />
+    <ignored path="$PROJECT_DIR$/038foreach 对比for/bin/" />
+    <ignored path="$PROJECT_DIR$/039终止for循环/bin/" />
+    <ignored path="$PROJECT_DIR$/040循环体的过滤/bin/" />
+    <ignored path="$PROJECT_DIR$/041循环的极限/bin/" />
+    <ignored path="$PROJECT_DIR$/042获取一维数组的最小值/bin/" />
+    <ignored path="$PROJECT_DIR$/043将二维数组的行列互换/bin/" />
+    <ignored path="$PROJECT_DIR$/044数组随机/bin/" />
+    <ignored path="$PROJECT_DIR$/045数组设计jtable的宽度/bin/" />
+    <ignored path="$PROJECT_DIR$/046数组下标的边界/bin/" />
+    <ignored path="$PROJECT_DIR$/047按钮控件数组实现计算器界面/bin/" />
+    <ignored path="$PROJECT_DIR$/048复选框控件数组/bin/" />
+    <ignored path="$PROJECT_DIR$/049数组翻转字符串/bin/" />
+    <ignored path="$PROJECT_DIR$/050选择排序/bin/" />
+    <ignored path="$PROJECT_DIR$/051冒泡排序/bin/" />
+    <ignored path="$PROJECT_DIR$/052快速排序/bin/" />
+    <ignored path="$PROJECT_DIR$/053直接插入法/bin/" />
+    <ignored path="$PROJECT_DIR$/054使用sort()进行排序/bin/" />
+    <ignored path="$PROJECT_DIR$/055翻转数组元素中的顺序/bin/" />
+    <ignored path="$PROJECT_DIR$/056动态数组保存学生信息/bin/" />
+    <ignored path="$PROJECT_DIR$/057List保存学生信息/bin/" />
+    <ignored path="$PROJECT_DIR$/058TreeSet生成不重复自动排序的随机数组/bin/" />
+    <ignored path="$PROJECT_DIR$/059MAP映射实现省级联动/bin/" />
+    <ignored path="$PROJECT_DIR$/060数字格式化为货币字符串/bin/" />
+    <ignored path="$PROJECT_DIR$/061格式化当前的日期/bin/" />
+    <ignored path="$PROJECT_DIR$/062货币金额大写格式/bin/" />
+    <ignored path="$PROJECT_DIR$/063String类格式化当前日期/bin/" />
+    <ignored path="$PROJECT_DIR$/064字符串大小写转换/bin/" />
+    <ignored path="$PROJECT_DIR$/065字符与unicode码的转换/bin/" />
+    <ignored path="$PROJECT_DIR$/066判断用户名是否正确/bin/" />
+    <ignored path="$PROJECT_DIR$/067用户名排序/bin/" />
+    <ignored path="$PROJECT_DIR$/068判断网页请求于ftp请求/bin/" />
+    <ignored path="$PROJECT_DIR$/069判断文件类型/bin/" />
+    <ignored path="$PROJECT_DIR$/070判断字符串是否是数字/bin/" />
+    <ignored path="$PROJECT_DIR$/071验证ip地址的有效性/bin/" />
+    <ignored path="$PROJECT_DIR$/072鉴别非法电话号码/bin/" />
+    <ignored path="$PROJECT_DIR$/073根据标点符号对字符串进行分析/bin/" />
+    <ignored path="$PROJECT_DIR$/074将字符串的每个字符进行倒序输出/bin/" />
+    <ignored path="$PROJECT_DIR$/075获取字符串汉字的个数/bin/" />
+    <ignored path="$PROJECT_DIR$/076批量替换某一类字符串/bin/" />
+    <ignored path="$PROJECT_DIR$/077把异常与错误信息显示到窗体/bin/" />
+    <ignored path="$PROJECT_DIR$/078从字符串中分离文件路径文件名和扩展名/bin/" />
+    <ignored path="$PROJECT_DIR$/079判断手机号的合法性/bin/" />
+    <ignored path="$PROJECT_DIR$/080用字符串构建器追加字符/bin/" />
+    <ignored path="$PROJECT_DIR$/081去掉字符串的所有空格/bin/" />
+    <ignored path="$PROJECT_DIR$/082汉字与区位码的转换/bin/" />
+    <ignored path="$PROJECT_DIR$/083自定义图书类/bin/" />
+    <ignored path="$PROJECT_DIR$/084温度单位转换工具/bin/" />
+    <ignored path="$PROJECT_DIR$/085域的默认初始化值/bin/" />
+    <ignored path="$PROJECT_DIR$/086编写同名的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/087构造方法的应用/bin/" />
+    <ignored path="$PROJECT_DIR$/088单例模式的应用/bin/" />
+    <ignored path="$PROJECT_DIR$/089 祖先的止痒药方(继承)/bin/" />
+    <ignored path="$PROJECT_DIR$/090统计图书的销量数/bin/" />
+    <ignored path="$PROJECT_DIR$/091汉诺塔游戏求解/bin/" />
+    <ignored path="$PROJECT_DIR$/092 不能重写的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/093 将字符串转换为整数/bin/" />
+    <ignored path="$PROJECT_DIR$/094整数进制转换/bin/" />
+    <ignored path="$PROJECT_DIR$/095 查看数字的取值范围/bin/" />
+    <ignored path="$PROJECT_DIR$/096 ASCII编码查看器/bin/" />
+    <ignored path="$PROJECT_DIR$/097Double类型比较器/bin/" />
+    <ignored path="$PROJECT_DIR$/098经理与员工的差异（继承，多态）/bin/" />
+    <ignored path="$PROJECT_DIR$/099重写父类中的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/100计算几何图形的面积/bin/" />
+    <ignored path="$PROJECT_DIR$/101提高产品质量的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/102简单的汽车销售商场/bin/" />
+    <ignored path="$PROJECT_DIR$/103两个相同的对象/bin/" />
+    <ignored path="$PROJECT_DIR$/104 简化equal()重写/bin/" />
+    <ignored path="$PROJECT_DIR$/105重新计算对象的hash值/bin/" />
+    <ignored path="$PROJECT_DIR$/106简化hashcode的重写/bin/" />
+    <ignored path="$PROJECT_DIR$/107使用字符串输出对象/bin/" />
+    <ignored path="$PROJECT_DIR$/108简化toString()方法重写/bin/" />
+    <ignored path="$PROJECT_DIR$/109Java对象的假克隆/bin/" />
+    <ignored path="$PROJECT_DIR$/110Java对象的浅克隆/bin/" />
+    <ignored path="$PROJECT_DIR$/111java对象的深克隆/bin/" />
+    <ignored path="$PROJECT_DIR$/112序列化对象与对象克隆/bin/" />
+    <ignored path="$PROJECT_DIR$/113深克隆效率的比较/bin/" />
+    <ignored path="$PROJECT_DIR$/114transient关键字的应用/bin/" />
+    <ignored path="$PROJECT_DIR$/115使用sort进行排序/bin/" />
+    <ignored path="$PROJECT_DIR$/116简化compareTo()方法重写/bin/" />
+    <ignored path="$PROJECT_DIR$/117策略模式的简单应用/bin/" />
+    <ignored path="$PROJECT_DIR$/118适配器模式的简单应用/bin/" />
+    <ignored path="$PROJECT_DIR$/119普通内部类的简单应用/bin/" />
+    <ignored path="$PROJECT_DIR$/120局部内部类的简单使用/bin/" />
+    <ignored path="$PROJECT_DIR$/121匿名内部类的简单应用/bin/" />
+    <ignored path="$PROJECT_DIR$/122静态内部类的简单应用/bin/" />
+    <ignored path="$PROJECT_DIR$/123查看枚举类型的定义/bin/" />
+    <ignored path="$PROJECT_DIR$/124枚举类型的基本特征/bin/" />
+    <ignored path="$PROJECT_DIR$/125增加枚举元素的信息/bin/" />
+    <ignored path="$PROJECT_DIR$/126选择合适的枚举元素/bin/" />
+    <ignored path="$PROJECT_DIR$/127高效的枚举元素集合/bin/" />
+    <ignored path="$PROJECT_DIR$/128高效的枚举元素映射/bin/" />
+    <ignored path="$PROJECT_DIR$/129遍历枚举接口的元素/bin/" />
+    <ignored path="$PROJECT_DIR$/130简单的文件合并工具/bin/" />
+    <ignored path="$PROJECT_DIR$/131自定义非泛型栈结构/bin/" />
+    <ignored path="$PROJECT_DIR$/132泛型栈结构/bin/" />
+    <ignored path="$PROJECT_DIR$/133自定义泛型化数组/bin/" />
+    <ignored path="$PROJECT_DIR$/134泛型方法与数据查询/bin/" />
+    <ignored path="$PROJECT_DIR$/135泛型化方法与最小值/bin/" />
+    <ignored path="$PROJECT_DIR$/136泛型化接口与最大值/bin/" />
+    <ignored path="$PROJECT_DIR$/137使用通配符增强泛型/bin/" />
+    <ignored path="$PROJECT_DIR$/138泛型化的折半查找/bin/" />
+    <ignored path="$PROJECT_DIR$/139实例化class类的5种方式/bin/" />
+    <ignored path="$PROJECT_DIR$/140获得class对象表示实体的名称/bin/" />
+    <ignored path="$PROJECT_DIR$/141查看类的申明/bin/" />
+    <ignored path="$PROJECT_DIR$/142查看类的成员/bin/" />
+    <ignored path="$PROJECT_DIR$/143按继承层次对类排序/bin/" />
+    <ignored path="$PROJECT_DIR$/144查看内部类的信息/bin/" />
+    <ignored path="$PROJECT_DIR$/145动态设置类的私有域/bin/" />
+    <ignored path="$PROJECT_DIR$/146动态调用类的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/147动态实例化类/bin/" />
+    <ignored path="$PROJECT_DIR$/148创建长度可变的数组/bin/" />
+    <ignored path="$PROJECT_DIR$/149利用反射重写toString()方法/bin/" />
+    <ignored path="$PROJECT_DIR$/150反射与动态代理/bin/" />
+    <ignored path="$PROJECT_DIR$/151算数异常/bin/" />
+    <ignored path="$PROJECT_DIR$/152数组存值异常/bin/" />
+    <ignored path="$PROJECT_DIR$/153数组下标越界异常/bin/" />
+    <ignored path="$PROJECT_DIR$/154空指针异常/bin/" />
+    <ignored path="$PROJECT_DIR$/155类未发现异常/bin/" />
+    <ignored path="$PROJECT_DIR$/156非法访问异常/bin/" />
+    <ignored path="$PROJECT_DIR$/157文件未发现异常/bin/" />
+    <ignored path="$PROJECT_DIR$/158数据库操作异常/bin/" />
+    <ignored path="$PROJECT_DIR$/159方法中抛出异常/bin/" />
+    <ignored path="$PROJECT_DIR$/160方法上抛出异常/bin/" />
+    <ignored path="$PROJECT_DIR$/161自定义异常类/bin/" />
+    <ignored path="$PROJECT_DIR$/162捕获单个异常/bin/" />
+    <ignored path="$PROJECT_DIR$/163捕获多个异常/bin/" />
+    <ignored path="$PROJECT_DIR$/164新建无返回值的线程/bin/" />
+    <ignored path="$PROJECT_DIR$/165查看线程的运行状态/bin/" />
+    <ignored path="$PROJECT_DIR$/166查看JVM中的线程名/bin/" />
+    <ignored path="$PROJECT_DIR$/167查看和修改线程名称/bin/" />
+    <ignored path="$PROJECT_DIR$/168查看与修改线程优先级/bin/" />
+    <ignored path="$PROJECT_DIR$/169使用守护线程/bin/" />
+    <ignored path="$PROJECT_DIR$/170休眠当前的线程/bin/" />
+    <ignored path="$PROJECT_DIR$/171终止当前的线程/bin/" />
+    <ignored path="$PROJECT_DIR$/172线程的插队运行/bin/" />
+    <ignored path="$PROJECT_DIR$/173非同步的数据读写/bin/" />
+    <ignored path="$PROJECT_DIR$/174使用方法实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/175使用代码块实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/176使用特殊域变量实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/177使用重入锁实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/178使用线程局部变量实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/179简单的线程通信/bin/" />
+    <ignored path="$PROJECT_DIR$/180简单的线程死锁/bin/" />
+    <ignored path="$PROJECT_DIR$/181解决线程的死锁问题/bin/" />
+    <ignored path="$PROJECT_DIR$/182使用阻塞队列实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/183新建有返回值的线程/bin/" />
+    <ignored path="$PROJECT_DIR$/184使用线程池优化多线程编程/bin/" />
+    <ignored path="$PROJECT_DIR$/185Object类中线程相关的方法/bin/" />
+    <ignored path="$PROJECT_DIR$/186哲学家就餐问题/bin/" />
+    <ignored path="$PROJECT_DIR$/187使用信号量实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/188使用原子变量实现线程同步/bin/" />
+    <ignored path="$PROJECT_DIR$/189使用事件分配线程更新swing的控件/bin/" />
+    <ignored path="$PROJECT_DIR$/190使用swingWorker类完成耗时操作/bin/" />
+    <ignored path="$PROJECT_DIR$/191简单的数字时钟/bin/" />
+    <ignored path="$PROJECT_DIR$/192简单的电子时钟/bin/" />
+    <ignored path="$PROJECT_DIR$/193简单的模拟时钟/bin/" />
+    <ignored path="$PROJECT_DIR$/194简单的公历万年历/bin/" />
+    <ignored path="$PROJECT_DIR$/195查看生日相关信息/bin/" />
+    <ignored path="$PROJECT_DIR$/196日期格式有校性判断(SimpleDateFormat)/bin/" />
+    <ignored path="$PROJECT_DIR$/197常见日期格式使用/bin/" />
+    <ignored path="$PROJECT_DIR$/198查看本地时区(TimeZone)/bin/" />
+    <ignored path="$PROJECT_DIR$/199简单的时区转换工具/bin/" />
+    <ignored path="$PROJECT_DIR$/200查看系统属性(System)/bin/" />
+    <ignored path="$PROJECT_DIR$/201重定向标准输出/bin/" />
+    <ignored path="$PROJECT_DIR$/202计算程序运行时间/bin/" />
+    <ignored path="$PROJECT_DIR$/203从控制台输入密码/bin/" />
+    <ignored path="$PROJECT_DIR$/204角度与弧度的转换(Math)/bin/" />
+    <ignored path="$PROJECT_DIR$/205三角函数的使用/bin/" />
+    <ignored path="$PROJECT_DIR$/206反三角函数的使用/bin/" />
+    <ignored path="$PROJECT_DIR$/207双曲函数的使用/bin/" />
+    <ignored path="$PROJECT_DIR$/208指数与对数运算/bin/" />
+    <ignored path="$PROJECT_DIR$/209高精度整数运算(BigInteger)/bin/" />
+    <ignored path="$PROJECT_DIR$/210 高精度浮点运算(BigDecimal)/bin/" />
+    <ignored path="$PROJECT_DIR$/211号码随机生成器(Random)/bin/" />
+    <ignored path="$PROJECT_DIR$/212大乐透号码随机生成器/bin/" />
+    <ignored path="$PROJECT_DIR$/213监视JVM内存状态(Runtime)/bin/" />
+    <ignored path="$PROJECT_DIR$/214启动默认工具(Desktop)/bin/" />
+    <ignored path="$PROJECT_DIR$/215简单的截图软件(Robot自动化测试)/bin/" />
+    <ignored path="$PROJECT_DIR$/216数组元素的增加(commons lang组件)(ArrayUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/217数组元素的删除/bin/" />
+    <ignored path="$PROJECT_DIR$/218生成随机字符串(RandomStringUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/219序列化与反序列化(SerializationUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/220分数的常见运算(Fraction)/bin/" />
+    <ignored path="$PROJECT_DIR$/221整数取值范围判断(IntRange)/bin/" />
+    <ignored path="$PROJECT_DIR$/222描述统计学应用(commons math组件)(DescriptiveStatistic)/bin/" />
+    <ignored path="$PROJECT_DIR$/223绘制简单的直方图(Frequency)/bin/" />
+    <ignored path="$PROJECT_DIR$/224 一元线性回归计算(SimpleRegression)/bin/" />
+    <ignored path="$PROJECT_DIR$/225实数矩阵的运算(RealMatrix)/bin/" />
+    <ignored path="$PROJECT_DIR$/226复数的常见运算(Complex)/bin/" />
+    <ignored path="$PROJECT_DIR$/227T分布常见计算(TDistributionImpl)/bin/" />
+    <ignored path="$PROJECT_DIR$/228简化文件(夹)删除(commons IO)(FileDeleteStrategy)/bin/" />
+    <ignored path="$PROJECT_DIR$/229简化文件(夹)复制(FileUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/230简化文件(夹)排序(SizeFileComparator)/bin/" />
+    <ignored path="$PROJECT_DIR$/231简化文件(夹)过滤(SizeFileFilter)/bin/" />
+    <ignored path="$PROJECT_DIR$/232简化文件的读写操作(IOUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/233设置javaBean的简单属性(commons BeanUtils)(PropertyUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/234设置bean的级联属性(PropertyUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/235动态生成JavaBean(DynaProperty)/bin/" />
+    <ignored path="$PROJECT_DIR$/236 复制bean的属性(copyProperties())/bin/" />
+    <ignored path="$PROJECT_DIR$/237动态排序javaBean(BeanComparator)/bin/" />
+    <ignored path="$PROJECT_DIR$/238优雅的jdbc代码(commons DbUtils)(DbUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/239结果集与Bean列表(QueryRunner)/bin/" />
+    <ignored path="$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/bin/" />
+    <ignored path="$PROJECT_DIR$/241基于Base64编码(Base64)/bin/" />
+    <ignored path="$PROJECT_DIR$/242基于Base64解码(Base64)/bin/" />
+    <ignored path="$PROJECT_DIR$/243发送简单的邮件(commons Email)(SimpleEmail)/bin/" />
+    <ignored path="$PROJECT_DIR$/244发送带附件的邮件(MultiPartEmail)(EmailAttachment(模拟附件))/bin/" />
+    <ignored path="$PROJECT_DIR$/245读取xml文件属性(commons Configuration)(XMLConfiguration)/bin/" />
+    <ignored path="$PROJECT_DIR$/246/bin/" />
+    <ignored path="$PROJECT_DIR$/247/bin/" />
+    <ignored path="$PROJECT_DIR$/248/bin/" />
+    <ignored path="$PROJECT_DIR$/249/bin/" />
+    <ignored path="$PROJECT_DIR$/250/bin/" />
+    <ignored path="$PROJECT_DIR$/251/bin/" />
+    <ignored path="$PROJECT_DIR$/252/bin/" />
+    <ignored path="$PROJECT_DIR$/253/bin/" />
+    <ignored path="$PROJECT_DIR$/254/bin/" />
+    <ignored path="$PROJECT_DIR$/255/bin/" />
+    <ignored path="$PROJECT_DIR$/256/bin/" />
+    <ignored path="$PROJECT_DIR$/257/bin/" />
+    <ignored path="$PROJECT_DIR$/258/bin/" />
+    <ignored path="$PROJECT_DIR$/259/bin/" />
+    <ignored path="$PROJECT_DIR$/260/bin/" />
+    <ignored path="$PROJECT_DIR$/261/bin/" />
+    <ignored path="$PROJECT_DIR$/262/bin/" />
+    <ignored path="$PROJECT_DIR$/263/bin/" />
+    <ignored path="$PROJECT_DIR$/264/bin/" />
+    <ignored path="$PROJECT_DIR$/265/bin/" />
+    <ignored path="$PROJECT_DIR$/266/bin/" />
+    <ignored path="$PROJECT_DIR$/267/bin/" />
+    <ignored path="$PROJECT_DIR$/268/bin/" />
+    <ignored path="$PROJECT_DIR$/269/bin/" />
+    <ignored path="$PROJECT_DIR$/270/bin/" />
+    <ignored path="$PROJECT_DIR$/271/bin/" />
+    <ignored path="$PROJECT_DIR$/272/bin/" />
+    <ignored path="$PROJECT_DIR$/273/bin/" />
+    <ignored path="$PROJECT_DIR$/274/bin/" />
+    <ignored path="$PROJECT_DIR$/275/bin/" />
+    <ignored path="$PROJECT_DIR$/276/bin/" />
+    <ignored path="$PROJECT_DIR$/277/bin/" />
+    <ignored path="$PROJECT_DIR$/278/bin/" />
+    <ignored path="$PROJECT_DIR$/279/bin/" />
+    <ignored path="$PROJECT_DIR$/280/bin/" />
+    <ignored path="$PROJECT_DIR$/281/bin/" />
+    <ignored path="$PROJECT_DIR$/282/bin/" />
+    <ignored path="$PROJECT_DIR$/283/bin/" />
+    <ignored path="$PROJECT_DIR$/284/bin/" />
+    <ignored path="$PROJECT_DIR$/285/bin/" />
+    <ignored path="$PROJECT_DIR$/286/bin/" />
+    <ignored path="$PROJECT_DIR$/287/bin/" />
+    <ignored path="$PROJECT_DIR$/288/bin/" />
+    <ignored path="$PROJECT_DIR$/289/bin/" />
+    <ignored path="$PROJECT_DIR$/290/bin/" />
+    <ignored path="$PROJECT_DIR$/291/bin/" />
+    <ignored path="$PROJECT_DIR$/292/bin/" />
+    <ignored path="$PROJECT_DIR$/293/bin/" />
+    <ignored path="$PROJECT_DIR$/294/bin/" />
+    <ignored path="$PROJECT_DIR$/295/bin/" />
+    <ignored path="$PROJECT_DIR$/296/bin/" />
+    <ignored path="$PROJECT_DIR$/297/bin/" />
+    <ignored path="$PROJECT_DIR$/298/bin/" />
+    <ignored path="$PROJECT_DIR$/299/bin/" />
+    <ignored path="$PROJECT_DIR$/300/bin/" />
+    <ignored path="$PROJECT_DIR$/301/bin/" />
+    <ignored path="$PROJECT_DIR$/302/bin/" />
+    <ignored path="$PROJECT_DIR$/303/bin/" />
+    <ignored path="$PROJECT_DIR$/304/bin/" />
+    <ignored path="$PROJECT_DIR$/305/bin/" />
+    <ignored path="$PROJECT_DIR$/306/bin/" />
+    <ignored path="$PROJECT_DIR$/307/bin/" />
+    <ignored path="$PROJECT_DIR$/308/bin/" />
+    <ignored path="$PROJECT_DIR$/309/bin/" />
+    <ignored path="$PROJECT_DIR$/310/bin/" />
+    <ignored path="$PROJECT_DIR$/311/bin/" />
+    <ignored path="$PROJECT_DIR$/312/bin/" />
+    <ignored path="$PROJECT_DIR$/313/bin/" />
+    <ignored path="$PROJECT_DIR$/314/bin/" />
+    <ignored path="$PROJECT_DIR$/315/bin/" />
+    <ignored path="$PROJECT_DIR$/316/bin/" />
+    <ignored path="$PROJECT_DIR$/317/bin/" />
+    <ignored path="$PROJECT_DIR$/318/bin/" />
+    <ignored path="$PROJECT_DIR$/319/bin/" />
+    <ignored path="$PROJECT_DIR$/320/bin/" />
+    <ignored path="$PROJECT_DIR$/321/bin/" />
+    <ignored path="$PROJECT_DIR$/322/bin/" />
+    <ignored path="$PROJECT_DIR$/323/bin/" />
+    <ignored path="$PROJECT_DIR$/324/bin/" />
+    <ignored path="$PROJECT_DIR$/325/bin/" />
+    <ignored path="$PROJECT_DIR$/326/bin/" />
+    <ignored path="$PROJECT_DIR$/327/bin/" />
+    <ignored path="$PROJECT_DIR$/328/bin/" />
+    <ignored path="$PROJECT_DIR$/329/bin/" />
+    <ignored path="$PROJECT_DIR$/330/bin/" />
+    <ignored path="$PROJECT_DIR$/331/bin/" />
+    <ignored path="$PROJECT_DIR$/332/bin/" />
+    <ignored path="$PROJECT_DIR$/333/bin/" />
+    <ignored path="$PROJECT_DIR$/334/bin/" />
+    <ignored path="$PROJECT_DIR$/335/bin/" />
+    <ignored path="$PROJECT_DIR$/336/bin/" />
+    <ignored path="$PROJECT_DIR$/337/bin/" />
+    <ignored path="$PROJECT_DIR$/338/bin/" />
+    <ignored path="$PROJECT_DIR$/339/bin/" />
+    <ignored path="$PROJECT_DIR$/340/bin/" />
+    <ignored path="$PROJECT_DIR$/341/bin/" />
+    <ignored path="$PROJECT_DIR$/342/bin/" />
+    <ignored path="$PROJECT_DIR$/343/bin/" />
+    <ignored path="$PROJECT_DIR$/344/bin/" />
+    <ignored path="$PROJECT_DIR$/345/bin/" />
+    <ignored path="$PROJECT_DIR$/346/bin/" />
+    <ignored path="$PROJECT_DIR$/347/bin/" />
+    <ignored path="$PROJECT_DIR$/348/bin/" />
+    <ignored path="$PROJECT_DIR$/349/bin/" />
+    <ignored path="$PROJECT_DIR$/350/bin/" />
+    <ignored path="$PROJECT_DIR$/351/bin/" />
+    <ignored path="$PROJECT_DIR$/352/bin/" />
+    <ignored path="$PROJECT_DIR$/353/bin/" />
+    <ignored path="$PROJECT_DIR$/354/bin/" />
+    <ignored path="$PROJECT_DIR$/355/bin/" />
+    <ignored path="$PROJECT_DIR$/356/bin/" />
+    <ignored path="$PROJECT_DIR$/357/bin/" />
+    <ignored path="$PROJECT_DIR$/358/bin/" />
+    <ignored path="$PROJECT_DIR$/359/bin/" />
+    <ignored path="$PROJECT_DIR$/360/bin/" />
+    <ignored path="$PROJECT_DIR$/361/bin/" />
+    <ignored path="$PROJECT_DIR$/362/bin/" />
+    <ignored path="$PROJECT_DIR$/363/bin/" />
+    <ignored path="$PROJECT_DIR$/364/bin/" />
+    <ignored path="$PROJECT_DIR$/365/bin/" />
+    <ignored path="$PROJECT_DIR$/366/bin/" />
+    <ignored path="$PROJECT_DIR$/367/bin/" />
+    <ignored path="$PROJECT_DIR$/368/bin/" />
+    <ignored path="$PROJECT_DIR$/369/bin/" />
+    <ignored path="$PROJECT_DIR$/370/bin/" />
+    <ignored path="$PROJECT_DIR$/371/bin/" />
+    <ignored path="$PROJECT_DIR$/372/bin/" />
+    <ignored path="$PROJECT_DIR$/373/bin/" />
+    <ignored path="$PROJECT_DIR$/374/bin/" />
+    <ignored path="$PROJECT_DIR$/375/bin/" />
+    <ignored path="$PROJECT_DIR$/376/bin/" />
+    <ignored path="$PROJECT_DIR$/377/bin/" />
+    <ignored path="$PROJECT_DIR$/378/bin/" />
+    <ignored path="$PROJECT_DIR$/379/bin/" />
+    <ignored path="$PROJECT_DIR$/380/bin/" />
+    <ignored path="$PROJECT_DIR$/381/bin/" />
+    <ignored path="$PROJECT_DIR$/382/bin/" />
+    <ignored path="$PROJECT_DIR$/383/bin/" />
+    <ignored path="$PROJECT_DIR$/384/bin/" />
+    <ignored path="$PROJECT_DIR$/385/bin/" />
+    <ignored path="$PROJECT_DIR$/386/bin/" />
+    <ignored path="$PROJECT_DIR$/387/bin/" />
+    <ignored path="$PROJECT_DIR$/388/bin/" />
+    <ignored path="$PROJECT_DIR$/389/bin/" />
+    <ignored path="$PROJECT_DIR$/390/bin/" />
+    <ignored path="$PROJECT_DIR$/391/bin/" />
+    <ignored path="$PROJECT_DIR$/392/bin/" />
+    <ignored path="$PROJECT_DIR$/393/bin/" />
+    <ignored path="$PROJECT_DIR$/394/bin/" />
+    <ignored path="$PROJECT_DIR$/395/bin/" />
+    <ignored path="$PROJECT_DIR$/396/bin/" />
+    <ignored path="$PROJECT_DIR$/397/bin/" />
+    <ignored path="$PROJECT_DIR$/398/bin/" />
+    <ignored path="$PROJECT_DIR$/399/bin/" />
+    <ignored path="$PROJECT_DIR$/400/bin/" />
+    <ignored path="$PROJECT_DIR$/401/bin/" />
+    <ignored path="$PROJECT_DIR$/402/bin/" />
+    <ignored path="$PROJECT_DIR$/403/bin/" />
+    <ignored path="$PROJECT_DIR$/404/bin/" />
+    <ignored path="$PROJECT_DIR$/405/bin/" />
+    <ignored path="$PROJECT_DIR$/406/bin/" />
+    <ignored path="$PROJECT_DIR$/407/bin/" />
+    <ignored path="$PROJECT_DIR$/408/bin/" />
+    <ignored path="$PROJECT_DIR$/409/bin/" />
+    <ignored path="$PROJECT_DIR$/410/bin/" />
+    <ignored path="$PROJECT_DIR$/411修改文件属性/bin/" />
+    <ignored path="$PROJECT_DIR$/412显示指定类型的文件/bin/" />
+    <ignored path="$PROJECT_DIR$/413以树结构显示文件路劲/bin/" />
+    <ignored path="$PROJECT_DIR$/414查找替换文本文件内容/bin/" />
+    <ignored path="$PROJECT_DIR$/415支持图片预览的文件选择对话框/bin/" />
+    <ignored path="$PROJECT_DIR$/416设置windows的文件属性/bin/" />
+    <ignored path="$PROJECT_DIR$/417文件批量重命名/bin/" />
+    <ignored path="$PROJECT_DIR$/418快速批量移动文件/bin/" />
+    <ignored path="$PROJECT_DIR$/419删除磁盘中所有的.temp临时文件/bin/" />
+    <ignored path="$PROJECT_DIR$/420文件与数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/421提取文本文件的内容到mysql/bin/" />
+    <ignored path="$PROJECT_DIR$/422将图片保存到sqlserver数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/423显示数据库中的图片信息/bin/" />
+    <ignored path="$PROJECT_DIR$/424提取技术网站数据到文件夹/bin/" />
+    <ignored path="$PROJECT_DIR$/425读取文件路劲到数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/426在数据库中建立磁盘索引/bin/" />
+    <ignored path="$PROJECT_DIR$/427操作磁盘文件夹/bin/" />
+    <ignored path="$PROJECT_DIR$/428删除文件夹中的所有文件/bin/" />
+    <ignored path="$PROJECT_DIR$/429创建磁盘索引文件/bin/" />
+    <ignored path="$PROJECT_DIR$/430快速全盘查找文件/bin/" />
+    <ignored path="$PROJECT_DIR$/431获取磁盘所有文本文件/bin/" />
+    <ignored path="$PROJECT_DIR$/432网络文件夹备份/bin/" />
+    <ignored path="$PROJECT_DIR$/433将键盘录入的内容保存到文本文件中(InputStreamReader)/bin/" />
+    <ignored path="$PROJECT_DIR$/434将数组写入文件中并逆序输出(RandomAccessFile)/bin/" />
+    <ignored path="$PROJECT_DIR$/435利用StringBuffer避免文件的多次写入(FIleOutputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/436合并多个text文件(FIleOutputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/437实现文件简单加密与解密/bin/" />
+    <ignored path="$PROJECT_DIR$/438大文件分割处理/bin/" />
+    <ignored path="$PROJECT_DIR$/439分割文件合并/bin/" />
+    <ignored path="$PROJECT_DIR$/440读取属性文件的单个属性值(Properties)/bin/" />
+    <ignored path="$PROJECT_DIR$/441向属性文件中添加信息/bin/" />
+    <ignored path="$PROJECT_DIR$/442在复制文件时使用进度条(ProgressMonitorInputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/443从xml文件中读取数据(dom sax pull)/bin/" />
+    <ignored path="$PROJECT_DIR$/444读取jar文件属性/bin/" />
+    <ignored path="$PROJECT_DIR$/445电子通讯录(BufferedWriter)/bin/" />
+    <ignored path="$PROJECT_DIR$/446批量复制指定扩展名的文件/bin/" />
+    <ignored path="$PROJECT_DIR$/447socket通信小程序/bin/" />
+    <ignored path="$PROJECT_DIR$/448对某文件夹的文件进行分类存储/bin/" />
+    <ignored path="$PROJECT_DIR$/449统计文件的字符数(StreamTokenizer)/bin/" />
+    <ignored path="$PROJECT_DIR$/450指定目录下搜索文件/bin/" />
+    <ignored path="$PROJECT_DIR$/451序列化与反序列化对象(ObjectInputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/452文件锁定(FileLock)/bin/" />
+    <ignored path="$PROJECT_DIR$/453投票统计(BufferedReader)/bin/" />
+    <ignored path="$PROJECT_DIR$/454压缩所有文本文件(ZipOutputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/455压缩包解压到指定文件(ZipFile)(ZipEntry)/bin/" />
+    <ignored path="$PROJECT_DIR$/456压缩所有子文件夹/bin/" />
+    <ignored path="$PROJECT_DIR$/457深层文件夹压缩包的释放/bin/" />
+    <ignored path="$PROJECT_DIR$/458解决压缩包中文乱码问题/bin/" />
+    <ignored path="$PROJECT_DIR$/459Appache实现文件解压缩(Ant包)(ZipFile)/bin/" />
+    <ignored path="$PROJECT_DIR$/460把窗体压缩成zip文件(ObjectOutputStream)/bin/" />
+    <ignored path="$PROJECT_DIR$/461解压缩java对象/bin/" />
+    <ignored path="$PROJECT_DIR$/462RAR文件压缩/bin/" />
+    <ignored path="$PROJECT_DIR$/463解压缩RaR压缩包/bin/" />
+    <ignored path="$PROJECT_DIR$/464文件分卷压缩/bin/" />
+    <ignored path="$PROJECT_DIR$/465为RAR压缩包添加注释/bin/" />
+    <ignored path="$PROJECT_DIR$/466获取压缩包详细文件列表/bin/" />
+    <ignored path="$PROJECT_DIR$/467从RAR压缩包中删除文件/bin/" />
+    <ignored path="$PROJECT_DIR$/468在压缩文件中查找字符串/bin/" />
+    <ignored path="$PROJECT_DIR$/469重命名RAR压缩包中的文件/bin/" />
+    <ignored path="$PROJECT_DIR$/470创建自解压RAR压缩包/bin/" />
+    <ignored path="$PROJECT_DIR$/471设置RAR压缩包密码/bin/" />
+    <ignored path="$PROJECT_DIR$/472以压缩格式传输网络数据/bin/" />
+    <ignored path="$PROJECT_DIR$/473压缩远程文件夹/bin/" />
+    <ignored path="$PROJECT_DIR$/474压缩存储网页/bin/" />
+    <ignored path="$PROJECT_DIR$/475将文本文件导入Word(jacob组件)/bin/" />
+    <ignored path="$PROJECT_DIR$/476浏览本地word文件/bin/" />
+    <ignored path="$PROJECT_DIR$/477将员工表插入word文档中/bin/" />
+    <ignored path="$PROJECT_DIR$/478将员工照片插入word简历中/bin/" />
+    <ignored path="$PROJECT_DIR$/479将word文档保存为HTML格式/bin/" />
+    <ignored path="$PROJECT_DIR$/480将员工信息保存到Excel(POI组件)/bin/" />
+    <ignored path="$PROJECT_DIR$/481通过Excel公式计算出商品表中的总销量/bin/" />
+    <ignored path="$PROJECT_DIR$/482将数据库表中的内容写入Excel/bin/" />
+    <ignored path="$PROJECT_DIR$/483将excel表中的内容保存到数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/484将Excel文件转换为HTML格式/bin/" />
+    <ignored path="$PROJECT_DIR$/485应用iTest组件生成PDF/bin/" />
+    <ignored path="$PROJECT_DIR$/486在窗体中显示PDF文件(PDF Reader组件)/bin/" />
+    <ignored path="$PROJECT_DIR$/487放大PDF文件/bin/" />
+    <ignored path="$PROJECT_DIR$/488缩小PDF文件/bin/" />
+    <ignored path="$PROJECT_DIR$/489应用PDF reader组件实现抓手功能/bin/" />
+    <ignored path="$PROJECT_DIR$/490全屏显示PDF/bin/" />
+    <ignored path="$PROJECT_DIR$/491jdbc-odbc桥连sqlserver2000/bin/" />
+    <ignored path="$PROJECT_DIR$/492jdbc-odbc桥接Access数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/493jdbc-odbc桥接Oracle/bin/" />
+    <ignored path="$PROJECT_DIR$/494JDBC连接sqlserver/bin/" />
+    <ignored path="$PROJECT_DIR$/495JDBC连接MySQL/bin/" />
+    <ignored path="$PROJECT_DIR$/496JDBC连接sqlserver2005/bin/" />
+    <ignored path="$PROJECT_DIR$/497JDBC连接oracle数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/498JDBC连接javaDb数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/499列举sql server数据库下的数据表(DatabaseMetaData)/bin/" />
+    <ignored path="$PROJECT_DIR$/500列举Mysql数据库下的数据表/bin/" />
+    <ignored path="$PROJECT_DIR$/501查看数据表结构/bin/" />
+    <ignored path="$PROJECT_DIR$/502动态维护投票数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/503sqlserver数据备份/bin/" />
+    <ignored path="$PROJECT_DIR$/504sqlserver数据恢复/bin/" />
+    <ignored path="$PROJECT_DIR$/505Mysql数据备份/bin/" />
+    <ignored path="$PROJECT_DIR$/506动态附加数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/507生成SQL数据库脚本/bin/" />
+    <ignored path="$PROJECT_DIR$/509获取sqlserver数据表字段的描述信息/bin/" />
+    <ignored path="$PROJECT_DIR$/510将员工的信息添加到数据表/bin/" />
+    <ignored path="$PROJECT_DIR$/511添加数据时使用数据验证/bin/" />
+    <ignored path="$PROJECT_DIR$/512插入用户登录日志信息/bin/" />
+    <ignored path="$PROJECT_DIR$/513生成有规律的编号/bin/" />
+    <ignored path="$PROJECT_DIR$/514生成无规律的编号/bin/" />
+    <ignored path="$PROJECT_DIR$/515在插入数据时过滤危险字符/bin/" />
+    <ignored path="$PROJECT_DIR$/516将用户选择的爱好以字符串形式保存到数据库/bin/" />
+    <ignored path="$PROJECT_DIR$/517将数据从一张表复制到另一张表/bin/" />
+    <ignored path="$PROJECT_DIR$/518使用UNION ALL语句批量插入数据/bin/" />
+    <ignored path="$PROJECT_DIR$/519更新指定记录/bin/" />
+    <ignored path="$PROJECT_DIR$/520在删除数据时给出提示信息/bin/" />
+    <ignored path="$PROJECT_DIR$/521将数据表清空/bin/" />
+    <ignored path="$PROJECT_DIR$/522字符串大小写转换/bin/" />
+    <ignored path="$PROJECT_DIR$/523对数据进行降序查询/bin/" />
+    <ignored path="$PROJECT_DIR$/524对数据进行多条件排序查询/bin/" />
+    <ignored path="$PROJECT_DIR$/525对统计结果进行排序/bin/" />
+    <ignored path="$PROJECT_DIR$/526查询sqlserver数据库中的前3条数据/bin/" />
+    <ignored path="$PROJECT_DIR$/527查询sqlserver数据库中的后3条数据/bin/" />
+    <ignored path="$PROJECT_DIR$/528查询mysql前3条数据/bin/" />
+    <ignored path="$PROJECT_DIR$/529查询mysql数据库中的后3条数据/bin/" />
+    <ignored path="$PROJECT_DIR$/530按照字母排序对留学生进表进行排序/bin/" />
+    <ignored path="$PROJECT_DIR$/531按照 姓氏笔画排序/bin/" />
+    <ignored path="$PROJECT_DIR$/532将汉字按拼音排序/bin/" />
+    <ignored path="$PROJECT_DIR$/533按列的编号排序/bin/" />
+    <ignored path="$PROJECT_DIR$/534从表中随机返回记录/bin/" />
+    <ignored path="$PROJECT_DIR$/535使用GROUP BY子句实现对数据的分组统计/bin/" />
+    <ignored path="$PROJECT_DIR$/536使用GROUP BY子句实现多表分组统计/bin/" />
+    <ignored path="$PROJECT_DIR$/537利用sum()实现数据汇总/bin/" />
+    <ignored path="$PROJECT_DIR$/538利用AVG()实现平均值的计算/bin/" />
+    <ignored path="$PROJECT_DIR$/539利用Min()求数据表中的最小值/bin/" />
+    <ignored path="$PROJECT_DIR$/540利用Max()求数据表中的最大值/bin/" />
+    <ignored path="$PROJECT_DIR$/541利用count()函数求销售额大于某值的图书种类/bin/" />
+    <ignored path="$PROJECT_DIR$/542查询编程词典6月份的销售量/bin/" />
+    <ignored path="$PROJECT_DIR$/543查询张静同一天入职的员工信息/bin/" />
+    <ignored path="$PROJECT_DIR$/544使用IN 谓语查询某几个时间的数据/bin/" />
+    <ignored path="$PROJECT_DIR$/545日期查询中避免千年虫问题/bin/" />
+    <ignored path="$PROJECT_DIR$/546在sqlserver查询结果中不显示重复几率/bin/" />
+    <ignored path="$PROJECT_DIR$/547使用not查询不满足条件的几率/bin/" />
+    <ignored path="$PROJECT_DIR$/548使用between进行区间查询/bin/" />
+    <ignored path="$PROJECT_DIR$/549列出销量表中的重复记录和记录条数/bin/" />
+    <ignored path="$PROJECT_DIR$/550使用关系运算符查询某一时间段查询/bin/" />
+    <ignored path="$PROJECT_DIR$/551计算两个日期之间的月份数/bin/" />
+    <ignored path="$PROJECT_DIR$/552格式化金额/bin/" />
+    <ignored path="$PROJECT_DIR$/553在查询语句中过滤掉字符串的空格/bin/" />
+    <ignored path="$PROJECT_DIR$/554将子查询作为表达式/bin/" />
+    <ignored path="$PROJECT_DIR$/555用子查询作为派生类/bin/" />
+    <ignored path="$PROJECT_DIR$/556通过子查询关联数据/bin/" />
+    <ignored path="$PROJECT_DIR$/557使用IN谓语限定查询范围/bin/" />
+    <ignored path="$PROJECT_DIR$/558使用NOT IN子查询实现差集运算/bin/" />
+    <ignored path="$PROJECT_DIR$/559使用Not IN子查询实现反向查询/bin/" />
+    <ignored path="$PROJECT_DIR$/560返回笛卡尔积/bin/" />
+    <ignored path="$PROJECT_DIR$/561比较运算符引入子查询/bin/" />
+    <ignored path="$PROJECT_DIR$/562在子查询中使用聚集查询/bin/" />
+    <ignored path="$PROJECT_DIR$/563在删除数据时使用子查询/bin/" />
+    <ignored path="$PROJECT_DIR$/564查询平均成绩在85分以上的学生信息/bin/" />
+    <ignored path="$PROJECT_DIR$/565查询本科部门经理月收入情况/bin/" />
+    <ignored path="$PROJECT_DIR$/566在嵌套查询使用EXISTS关键字/bin/" />
+    <ignored path="$PROJECT_DIR$/567动态指定查询条件/bin/" />
+    <ignored path="$PROJECT_DIR$/568使用union运算符使学生档案归档/bin/" />
+    <ignored path="$PROJECT_DIR$/569内连接获取指定课程的教师信息/bin/" />
+    <ignored path="$PROJECT_DIR$/570左外连接查询员工信息/bin/" />
+    <ignored path="$PROJECT_DIR$/571右外连接查询员工信息/bin/" />
+    <ignored path="$PROJECT_DIR$/572多表外连接查询/bin/" />
+    <ignored path="$PROJECT_DIR$/573完全连接查询/bin/" />
+    <ignored path="$PROJECT_DIR$/574在查询中使用patindex()函数进行模糊查询/bin/" />
+    <ignored path="$PROJECT_DIR$/575对查询结果进行格式化/bin/" />
+    <ignored path="$PROJECT_DIR$/576   在查询中使用字符串函数/bin/" />
+    <ignored path="$PROJECT_DIR$/577在查询中使用ALL谓语/bin/" />
+    <ignored path="$PROJECT_DIR$/578在查询中使用ANY谓语/bin/" />
+    <ignored path="$PROJECT_DIR$/579使用UNION运算符消除重复的行/bin/" />
+    <ignored path="$PROJECT_DIR$/580使用UNION ALL运算符保留重复的行/bin/" />
+    <ignored path="$PROJECT_DIR$/581计算商品销量额所占的百分比/bin/" />
+    <ignored path="$PROJECT_DIR$/582调用存储过程实现用户身份验证/bin/" />
+    <ignored path="$PROJECT_DIR$/583应用存储过程添加数据/bin/" />
+    <ignored path="$PROJECT_DIR$/584调用加密存储过程/bin/" />
+    <ignored path="$PROJECT_DIR$/585获取数据库中所有存储过程/bin/" />
+    <ignored path="$PROJECT_DIR$/586修改存储过程/bin/" />
+    <ignored path="$PROJECT_DIR$/587删除存储工程/bin/" />
+    <ignored path="$PROJECT_DIR$/588应用触发器添加日志信息/bin/" />
+    <ignored path="$PROJECT_DIR$/589在删除成绩表时将学生表中的数据删除/bin/" />
+    <ignored path="$PROJECT_DIR$/590在程序中调用UPDATE触发器/bin/" />
+    <ignored path="$PROJECT_DIR$/591获取数据中的触发器的名称/bin/" />
+    <ignored path="$PROJECT_DIR$/592创建带有触发条件的触发器/bin/" />
+    <ignored path="$PROJECT_DIR$/593使用批处理删除数据/bin/" />
+    <ignored path="$PROJECT_DIR$/594使用批处理提升部分员工工资/bin/" />
+    <ignored path="$PROJECT_DIR$/595将教师表中的数据全部添加到选课表/bin/" />
+    <ignored path="$PROJECT_DIR$/596在批处理中使用事务/bin/" />
+    <ignored path="$PROJECT_DIR$/597创建视图/bin/" />
+    <ignored path="$PROJECT_DIR$/598使用视图过滤不必要的数据/bin/" />
+    <ignored path="$PROJECT_DIR$/599使用视图与计算数据/bin/" />
+    <ignored path="$PROJECT_DIR$/600使用视图重新格式化检索出来的数据/bin/" />
+    <ignored path="$PROJECT_DIR$/601获取数据库中的全部用户视图/bin/" />
+    <ignored path="$PROJECT_DIR$/602修改视图/bin/" />
+    <ignored path="$PROJECT_DIR$/603删除视图/bin/" />
+    <ignored path="$PROJECT_DIR$/数据库/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/test/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="893">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/package-info.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/Start1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/241基于Base64编码(Base64)/src/com/mingrisoft/codec/Base64EncodingFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1786">
+              <caret line="113" column="37" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/src/com/mingrisoft/codec/MD5Viewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/TempThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ThreadPoolTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/Transfer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/UnsynchronizedBankFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1881">
+              <caret line="116" column="24" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5947">
+              <caret line="370" column="39" selection-start-line="370" selection-start-column="39" selection-end-line="370" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/172线程的插队运行/src/com/mingrisoft/thread/EmergencyThread.java" />
+        <option value="$PROJECT_DIR$/172线程的插队运行/src/com/mingrisoft/thread/JoinThread.java" />
+        <option value="$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/Transfer.java" />
+        <option value="$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/Bank.java" />
+        <option value="$PROJECT_DIR$/176使用特殊域变量实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java" />
+        <option value="$PROJECT_DIR$/174使用方法实现线程同步/src/com/mingrisoft/thread/SyncTask.java" />
+        <option value="$PROJECT_DIR$/174使用方法实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java" />
+        <option value="$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/UnsynchronizedBankFrame.java" />
+        <option value="$PROJECT_DIR$/175使用代码块实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java" />
+        <option value="$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Seller.java" />
+        <option value="$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/HouseSeller.java" />
+        <option value="$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Test.java" />
+        <option value="$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Agency.java" />
+        <option value="$PROJECT_DIR$/177使用重入锁实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java" />
+        <option value="$PROJECT_DIR$/179简单的线程通信/src/com/mingrisoft/thread/TransactionFrame.java" />
+        <option value="$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/ProducerAndConsumerFrame.java" />
+        <option value="$PROJECT_DIR$/185Object类中线程相关的方法/src/test/MyDemo1.java" />
+        <option value="$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/test/Test.java" />
+        <option value="$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/package-info.txt" />
+        <option value="$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/start1.java" />
+        <option value="$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/Start1.java" />
+        <option value="$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/src/com/mingrisoft/codec/MD5Viewer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="445" />
+    <option name="y" value="253" />
+    <option name="width" value="1267" />
+    <option name="height" value="796" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2!" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="006输出星号组成的等腰三角形" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="151算数异常" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="164新建无返回值的线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="164新建无返回值的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="164新建无返回值的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="165查看线程的运行状态" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="165查看线程的运行状态" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="165查看线程的运行状态" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="169使用守护线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="170休眠当前的线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="170休眠当前的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="170休眠当前的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="171终止当前的线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="171终止当前的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="171终止当前的线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="172线程的插队运行" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="172线程的插队运行" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="172线程的插队运行" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="173非同步的数据读写" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="173非同步的数据读写" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="173非同步的数据读写" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="174使用方法实现线程同步" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="174使用方法实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="174使用方法实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="175使用代码块实现线程同步" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="175使用代码块实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="175使用代码块实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="176使用特殊域变量实现线程同步" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="176使用特殊域变量实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="176使用特殊域变量实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="177使用重入锁实现线程同步" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="177使用重入锁实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="177使用重入锁实现线程同步" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="184使用线程池优化多线程编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="184使用线程池优化多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="184使用线程池优化多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="184使用线程池优化多线程编程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="ececutors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="185Object类中线程相关的方法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="185Object类中线程相关的方法" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="185Object类中线程相关的方法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="185Object类中线程相关的方法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="185Object类中线程相关的方法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="238优雅的jdbc代码(commons DbUtils)(DbUtils)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="238优雅的jdbc代码(commons DbUtils)(DbUtils)" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="240编写MD5查看器(commons Codes)(DigestUtils)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="240编写MD5查看器(commons Codes)(DigestUtils)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="240编写MD5查看器(commons Codes)(DigestUtils)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="241基于Base64编码(Base64)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="241基于Base64编码(Base64)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="241基于Base64编码(Base64)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="242基于Base64解码(Base64)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_pro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="242基于Base64解码(Base64)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561290714212" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Start1">
+    <configuration name="ProducerAndConsumerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mingrisoft.thread.ProducerAndConsumerFrame" />
+      <module name="185" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mingrisoft.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mingrisoft.thread.ececutors.Start1" />
+      <module name="184" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mingrisoft.thread.ececutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mingrisoft.thread.test.Test" />
+      <module name="185" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mingrisoft.thread.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mingrisoft.thread.TransactionFrame" />
+      <module name="179" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mingrisoft.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mingrisoft.thread.ececutors.start1" />
+      <module name="184" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mingrisoft.thread.ececutors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start1" />
+        <item itemvalue="Application.start1" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ProducerAndConsumerFrame" />
+        <item itemvalue="Application.TransactionFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc811152-b420-4315-990f-eb2a4fe10c29" name="Default Changelist" comment="" />
+      <created>1558326648680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558326648680</updated>
+      <workItem from="1558326695349" duration="6102000" />
+      <workItem from="1558341769302" duration="1366000" />
+      <workItem from="1558401109883" duration="5000" />
+      <workItem from="1558466521005" duration="609000" />
+      <workItem from="1558598992777" duration="1297000" />
+      <workItem from="1559096894947" duration="912000" />
+      <workItem from="1559102104772" duration="1146000" />
+      <workItem from="1559381728390" duration="2209000" />
+      <workItem from="1559495157752" duration="314000" />
+      <workItem from="1559538767616" duration="1474000" />
+      <workItem from="1559580998652" duration="9000" />
+      <workItem from="1560181900974" duration="525000" />
+      <workItem from="1560428630313" duration="656000" />
+      <workItem from="1560743114891" duration="4661000" />
+      <workItem from="1560934207018" duration="2975000" />
+      <workItem from="1561195371799" duration="1309000" />
+      <workItem from="1561278514387" duration="7829000" />
+      <workItem from="1563984700454" duration="1166000" />
+      <workItem from="1565419973384" duration="88000" />
+      <workItem from="1566638359413" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34676000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27569592" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28744492" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.033259425" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/164新建无返回值的线程/src/com/mingrisoft/thread/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="95" column="8" lean-forward="true" selection-start-line="95" selection-start-column="8" selection-end-line="95" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/165查看线程的运行状态/src/com/mingrisoft/thread/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/170休眠当前的线程/src/com/mingrisoft/thread/RaceFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="166" column="54" lean-forward="true" selection-start-line="166" selection-start-column="54" selection-end-line="166" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/171终止当前的线程/src/com/mingrisoft/thread/StopThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/172线程的插队运行/src/com/mingrisoft/thread/EmergencyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/172线程的插队运行/src/com/mingrisoft/thread/JoinThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/174使用方法实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="116" column="14" selection-start-line="116" selection-start-column="14" selection-end-line="116" selection-end-column="14" />
+          <folding>
+            <element signature="e#2177#2178#0" expanded="true" />
+            <element signature="e#2240#2241#0" expanded="true" />
+            <element signature="e#5246#5247#0" expanded="true" />
+            <element signature="e#5305#5306#0" expanded="true" />
+            <element signature="e#5340#5341#0" expanded="true" />
+            <element signature="e#5390#5391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/174使用方法实现线程同步/src/com/mingrisoft/thread/SyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/176使用特殊域变量实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="131" column="23" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/103两个相同的对象/src/com/mingrisoft/cat/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Agency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/HouseSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Seller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/150反射与动态代理/src/com/mingrisoft/proxy/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/175使用代码块实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="143" column="15" selection-start-line="143" selection-start-column="15" selection-end-line="143" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/177使用重入锁实现线程同步/src/com/mingrisoft/thread/SynchronizedBankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/179简单的线程通信/src/com/mingrisoft/thread/TransactionFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="160" column="21" selection-start-line="160" selection-start-column="21" selection-end-line="160" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/reflect/Proxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/185Object类中线程相关的方法/src/test/MyDemo1.java" />
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/concurrent/Executors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/ProducerAndConsumerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/185Object类中线程相关的方法/src/com/mingrisoft/thread/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/package-info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ececutors/Start1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/241基于Base64编码(Base64)/src/com/mingrisoft/codec/Base64EncodingFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1786">
+          <caret line="113" column="37" selection-start-line="113" selection-start-column="37" selection-end-line="113" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/TempThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/184使用线程池优化多线程编程/src/com/mingrisoft/thread/ThreadPoolTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/173非同步的数据读写/src/com/mingrisoft/thread/UnsynchronizedBankFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1881">
+          <caret line="116" column="24" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5947">
+          <caret line="370" column="39" selection-start-line="370" selection-start-column="39" selection-end-line="370" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/240编写MD5查看器(commons Codes)(DigestUtils)/src/com/mingrisoft/codec/MD5Viewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>241</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

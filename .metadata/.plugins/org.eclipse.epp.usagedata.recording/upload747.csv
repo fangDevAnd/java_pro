@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137697373
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137699623
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137699998
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137701794
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137702123
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137703982
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137704388
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137706404
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137706794
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137708748
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137709154
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137713013
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137713451
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137714201
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137717607
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137720263
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137720732
+error,log,,,"Designer [7.4.0.r35x201005090400]: 205 (Unable to parse source.). \r\n    private final javax.swing.JLabel label = com.jgoodies.forms.factories.DefaultComponentFactory.getInstance().createTitle(""New JGoodies title"");",1276137734966
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1276137737904
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.redo",1276137740529
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137743013
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276137743216
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276137743404
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276137810560
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276137812248

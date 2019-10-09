@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276328049108
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276328056702
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276328057077
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276328467054
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276328470757
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276328475429
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276329483686
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276329487483
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276329494655
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276329494655
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330353673
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330354455
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330597635
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276330603995
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276330604698
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330606354
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330607463
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330607620
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330610541
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330620113
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330976245
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276330977745
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276330978979
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.closeAll",1276330979166
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276330982213

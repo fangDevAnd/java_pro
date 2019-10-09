@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997037067
+started,bundle,com.instantiations.designer.swing.ams,7.4.0.r35x201005090414,"com.instantiations.designer.swing.ams",1276997039465
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276997050819
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276997051881
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276997052866
+error,log,,,"Unhandled event loop exception",1276997052999
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997054686
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997055304
+started,bundle,org.eclipse.jdt.junit,3.5.0.v20090526-2000,"org.eclipse.jdt.junit",1276997060171
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997110984
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997111613
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1276997111644
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276997125261
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997126488
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997127002
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276997130963
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997137463
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997137905
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1276997140264
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1276997140772
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997144420
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997148936
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.newWizard",1276997148952
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997149583
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276997149669

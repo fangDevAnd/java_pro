@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275879738554
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879741101
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879744851
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879748945
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275879749367
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879749710
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1275879749804
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275879762195
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879785804
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879806523
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879831492
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275879831914
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879832226
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275879835757
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879836304
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275879836757
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879837085
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1275879837148
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275879863367
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275879868960
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275879876039
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879876851
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275879877195
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1275879877226
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275879899579

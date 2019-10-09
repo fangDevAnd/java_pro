@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.java.core",1275276697655
+started,bundle,org.eclipse.ve.jfc,1.4.0.v20090826-1446,"org.eclipse.ve.jfc",1275276697655
+started,bundle,org.eclipse.ve.propertysheet,1.4.0.v20090826-1446,"org.eclipse.ve.propertysheet",1275276697655
+started,bundle,org.eclipse.wst.common.emf,1.1.300.v200905060430,"org.eclipse.wst.common.emf",1275276697655
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.1.300.v200811200330,"org.eclipse.wst.common.emfworkbench.integration",1275276697655
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1275276697655
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1275276697655
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1275276697670
+started,bundle,com.instantiations.common.core,5.6.0.r35x201005070739,"com.instantiations.common.core",1275276697670
+started,bundle,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core",1275276697670
+started,bundle,com.instantiations.designer.core.lib,7.4.0.r35x201005090400,"com.instantiations.designer.core.lib",1275276697670
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1275276697670
+started,bundle,com.instantiations.eclipse.ui,7.4.0.r35x201005070742,"com.instantiations.eclipse.ui",1275276697670
+os,sysinfo,,,"win32",1275276697670
+arch,sysinfo,,,"x86",1275276697670
+ws,sysinfo,,,"win32",1275276697670
+locale,sysinfo,,,"zh_CN",1275276697670
+processors,sysinfo,,,"2",1275276697670
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1275276697670
+java.runtime.version,sysinfo,,,"1.6.0_20-b02",1275276697670
+java.specification.name,sysinfo,,,"Java Platform API Specification",1275276697670
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1275276697670
+java.specification.version,sysinfo,,,"1.6",1275276697670
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1275276697670
+java.version,sysinfo,,,"1.6.0_20",1275276697670

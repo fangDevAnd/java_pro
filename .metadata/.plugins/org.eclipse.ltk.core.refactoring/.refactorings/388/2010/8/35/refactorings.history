@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="从表达式“new TitledBorder(new LineBorder(new Color(255,0,255),5,true),&quot;粉线蓝字的线性标题框&quot;,TitledBorder.LEADING,TitledBorder.TOP,null,Color.BLUE)”中抽取局部变量“titledBorder2”&#x0D;&#x0A;－ 原始项目：“实例008  嵌套的标题边框”&#x0D;&#x0A;－ 变量名称：“titledBorder2”&#x0D;&#x0A;－ 目标方法：“com.lzw.ShowInTitleBorder.ShowInTitleBorder()”&#x0D;&#x0A;－ 变量表达式：“new TitledBorder(new LineBorder(new Color(255,0,255),5,true),&quot;粉线蓝字的线性标题框&quot;,TitledBorder.LEADING,TitledBorder.TOP,null,Color.BLUE)”" description="抽取局部变量“titledBorder2”" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.lzw{ShowInTitleBorder.java" name="titledBorder2" replace="false" selection="2564 171" stamp="1282527284621" version="1.0"/>
+</session>

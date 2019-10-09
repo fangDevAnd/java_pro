@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space.java_view.inner"/>
+	<item value="825" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_height"/>
+	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
+	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space_tab_page.node"/>
+	<item value="C:\Documents and Settings\Administrator\桌面" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="false" key="TypeHierarchyViewPart.qualifiednames"/>
+	<item value="3" key="TypeHierarchyViewPart.orientation"/>
+	<item value="10" key="org.eclipse.jdt.uiformatter_page.modify_dialog_tab_page.last_focus_index"/>
+	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
+	<item value="E:\部门空间\Eclipse\代码格式化样式" key="org.eclipse.jdt.ui.codeformatter.loadpath"/>
+	<item value="-54" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_x"/>
+	<item value="22" key="org.eclipse.jdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
+	<item value="1" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.last_focus"/>
+	<item value="207" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_y"/>
+	<item value="947" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
+	<list key="workingset_selection_history">
+		<item value="第12章"/>
+		<item value="临时的"/>
+		<item value="第15章"/>
+		<item value="第11章"/>
+		<item value="第3章"/>
+	</list>
+	<section name="OptionalMessageDialog.hide.">
+		<item value="false" key="RunnableJar.export.ipwarning"/>
+		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item value="false" key="showtypes"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item value="2" key="pageIndex"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item value="false" key="CASE_SENSITIVE"/>
+		<item value="11" key="INCLUDE_MASK"/>
+		<item value="0" key="HISTORY_SIZE"/>
+	</section>
+	<section name="DialogBounds_SuperInterfaceSelectionDialog">
+		<item value="373" key="DIALOG_WIDTH"/>
+		<item value="-45" key="DIALOG_Y_ORIGIN"/>
+		<item value="88" key="DIALOG_X_ORIGIN"/>
+		<item value="596" key="DIALOG_HEIGHT"/>
+		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item value="400" key="height"/>
+		<item value="600" key="width"/>
+	</section>
+	<section name="FatJarPackageWizard">
+		<item value="D:\PIFrame.jar" key="FatJarPackageWizardPage.DESTINATION_PATH_SELECTION"/>
+		<item value="PIFrame - 实例014  圆周运动的窗体" key="FatJarPackageWizardPage.LAUNCH_CONFIGURATION_SELECTION_NAME"/>
+		<item value="" key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION"/>
+		<item value="false" key="FatJarPackageWizardPage.ANTSCRIPT_SAVE"/>
+		<item value="1" key="FatJarPackageWizardPage.LIBRARY_HANDLING"/>
+		<list key="FatJarPackageWizardPage.DESTINATION_NAMES_ID">
+			<item value="D:\PIFrame.jar"/>
+			<item value="d:\abc.jar"/>
+			<item value="d:\sort.jar"/>
+			<item value="d:\董大永.jar"/>
+			<item value="d:\run.jar"/>
+		</list>
+		<list key="FatJarPackageWizardPage.ANTSCRIPT_LOCATION_HISTORY">
+			<item value=".xml"/>
+		</list>
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="0" key="index"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item value="false" key="expanded4"/>
+		<item value="true" key="expanded3"/>
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="false" key="expanded6"/>
+		<item value="false" key="expanded5"/>
+		<item value="false" key="expanded0"/>
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="SynchronizedModifier"/>
+		<item value="false" key="FinalModifier"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item value="false" key="expanded2"/>
+		<item value="false" key="expanded1"/>
+		<item value="true" key="expanded0"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item value="400" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH"/>
+		<item value="335" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+		<item value="true" key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="167" key="DIALOG_Y_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="302" key="DIALOG_X_ORIGIN"/>
+			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item value="true" key="group_libraries"/>
+		<item value="true" key="linkWithEditor"/>
+		<item value="2" key="layout"/>
+		<item value="2" key="rootMode"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;packageExplorer configured=&quot;true&quot; group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;1&quot; rootMode=&quot;2&quot; sortWorkingSets=&quot;false&quot; workingSetName=&quot;&quot;&gt;&#x0D;&#x0A;&lt;localWorkingSetManager&gt;&#x0D;&#x0A;&lt;workingSet editPageId=&quot;org.eclipse.jdt.internal.ui.OthersWorkingSet&quot; factoryID=&quot;org.eclipse.ui.internal.WorkingSetFactory&quot; id=&quot;1274678645803_1&quot; label=&quot;其他项目&quot; name=&quot;其他项目&quot;&gt;&#x0D;&#x0A;&lt;item factoryID=&quot;org.eclipse.ui.internal.model.ResourceFactory&quot; path=&quot;/数据库&quot; type=&quot;4&quot;/&gt;&#x0D;&#x0A;&lt;/workingSet&gt;&#x0D;&#x0A;&lt;/localWorkingSetManager&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;其他项目&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第1章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第2章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第3章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第4章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第5章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第6章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第7章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第8章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第9章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第10章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第11章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第12章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第13章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第14章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第15章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第16章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第17章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第18章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第19章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第20章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第21章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第22章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第23章&quot;/&gt;&#x0D;&#x0A;&lt;activeWorkingSet workingSetName=&quot;第24章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;其他项目&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第1章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第2章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第3章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第4章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第5章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第6章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第7章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第8章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第9章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第10章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第11章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第12章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第13章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第14章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第15章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第16章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第17章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第18章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第19章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第20章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第21章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第22章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第23章&quot;/&gt;&#x0D;&#x0A;&lt;allWorkingSets workingSetName=&quot;第24章&quot;/&gt;&#x0D;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0D;&#x0A;&lt;xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;child filterId=&quot;org.eclipse.mylyn.java.ui.MembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0D;&#x0A;&lt;/customFilters&gt;&#x0D;&#x0A;&lt;/packageExplorer&gt;" key="memento"/>
+	</section>
+	<section name="completion_proposal_size">
+		<item value="533" key="size.x"/>
+		<item value="295" key="size.y"/>
+	</section>
+	<section name="ExtractMethodWizard">
+		<item value="false" key="ThrowRuntimeExceptions"/>
+		<item value="false" key="GenerateJavadoc"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="RenameInformationPopup">
+		<item value="2" key="snap_position"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="false" key="updateQualifiedNames"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="renameSubpackages"/>
+		<item value="1" key="updateSimilarElementsMatchStrategy"/>
+		<item value="false" key="updateTextualMatches"/>
+		<item value="false" key="updateSimilarElements"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item value="false" key="GoIntoTopLevelTypeAction.isChecked"/>
+		<item value="true" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE"/>
+		<item value="400" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH"/>
+		<item value="320" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT"/>
+		<item value="false" key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item value="false" key="RemoveFinal"/>
+		<item value="false" key="SortOrdering"/>
+	</section>
+</section>

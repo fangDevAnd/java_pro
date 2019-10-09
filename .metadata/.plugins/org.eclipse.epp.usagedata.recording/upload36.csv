@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.designer.rcp.GroupLayout,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.GroupLayout",1273560015049
+started,bundle,com.instantiations.designer.swing.FormLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout.lib",1273560015440
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560015956
+started,bundle,com.instantiations.designer.swing.ams,7.4.0.r35x201005090414,"com.instantiations.designer.swing.ams",1273560043737
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560068159
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560192362
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273560208659
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273560209331
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273560209846
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273560210018
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1273560210409
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560215846
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560216252
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1273560219893
+closed,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1273560219893
+no handler,command,org.eclipse.datatools.sqltools.result.ui,,"org.eclipse.datatools.sqltools.result.removeAllInstances",1273560222377
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1273560224237
+started,bundle,org.eclipse.wst.common.emf,1.1.300.v200905060430,"org.eclipse.wst.common.emf",1273560225034
+started,bundle,org.eclipse.jst.j2ee.core,1.1.300.v200905060430,"org.eclipse.jst.j2ee.core",1273560225049
+started,bundle,org.eclipse.jem,2.0.300.v200901272200,"org.eclipse.jem",1273560225112
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v200906010115,"org.eclipse.emf.ecore.xmi",1273560225127
+started,bundle,org.eclipse.jst.jee,1.0.200.v200905290632,"org.eclipse.jst.jee",1273560225440
+started,bundle,org.eclipse.jpt.core,2.2.0.v200906070220,"org.eclipse.jpt.core",1273560225549
+started,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1273560225565
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1273560225674

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291139538
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275291146694
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275291153944
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275291160694
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275291170991
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291196041
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291503432
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291507885
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291528395
+started,bundle,org.eclipse.equinox.p2.ui,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.ui",1275291531036
+started,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1275291531036
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291531551
+error,log,,,"Unable to load the repository http://download.eclipse.org/webtools/updates",1275291531598
+error,log,,,"Unable to load the repository jar:file:/E:/部门空间/部门专用工具/开发工具/SWT&Jface/WBPro_v7.4.0_for_Eclipse3.5.zip!/",1275291531942
+error,log,,,"Unable to load the repository http://download.eclipse.org/technology/epp/packages/galileo",1275291532083
+error,log,,,"Unable to load the repository jar:file:/C:/Users/Administrator/Desktop/lzw/VE-Update-1.4.0.zip!/",1275291532270
+error,log,,,"Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/",1275291532333
+error,log,,,"Unable to load the repository http://download.eclipse.org/eclipse/updates/3.5",1275291532364
+error,log,,,"Unable to load the repository http://download.eclipse.org/releases/galileo",1275291532411
+error,log,,,"Unable to load the repository jar:file:/E:/部门空间/部门专用工具/开发工具/SWT&Jface/WBPro_v6.9.3_for_Eclipse3.5.zip!/",1275291532567
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291556770
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1275291556786
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291558317
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291604068
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275291606037

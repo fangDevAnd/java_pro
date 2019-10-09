@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457714665
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457715821
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457719696
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457721977
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1275457735883
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275457747774
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457773227
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457773274
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457785430
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457822133
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457826227
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457830930
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457835133
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457841383
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457850430
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457866071
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457869821
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275457890540
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275457906010
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275457935151
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275457962713
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275457970588
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275457978573
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275457991448
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275458005526

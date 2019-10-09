@@ -1,0 +1,15 @@
+package com.lzw.widget;
+
+import javax.swing.JPanel;
+import javax.swing.colorchooser.AbstractColorChooserPanel;
+
+public class JColorField extends AbstractColorChooserPanel {
+    
+    /**
+     * Create the panel.
+     */
+    public JColorField() {
+        
+    }
+    
+}

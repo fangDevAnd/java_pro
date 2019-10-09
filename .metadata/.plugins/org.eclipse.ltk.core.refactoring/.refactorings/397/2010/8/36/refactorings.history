@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将 1 个元素复制到 “实例030  背景图面板控件/src/（缺省包）”&#x0D;&#x0A;－ 原始项目：“实例017  实现透明效果的表格控件”&#x0D;&#x0A;－ 目标元素：“实例030  背景图面板控件/src/（缺省包）”&#x0D;&#x0A;－ 原始元素：“back.jpg”" description="复制文件" destination="=实例030  背景图面板控件/src&lt;" element1="src/com/lzw/back.jpg" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1283240613234" units="0" version="1.0"/>
+</session>

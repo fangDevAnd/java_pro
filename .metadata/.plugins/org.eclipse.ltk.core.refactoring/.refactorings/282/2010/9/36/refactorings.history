@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="从表达式“new ActionListener(){float alpha=0;@Override public void actionPerformed(ActionEvent e){if (alpha &lt; 255) {AWTUtilities.setWindowOpacity(this,alpha);}}}”中抽取局部变量“actionListener”&#x0D;&#x0A;－ 原始项目：“实例003  淡入淡出的窗体”&#x0D;&#x0A;－ 变量名称：“actionListener”&#x0D;&#x0A;－ 目标方法：“ShadeFrame.do_this_windowActivated()”&#x0D;&#x0A;－ 变量表达式：“new ActionListener(){float alpha=0;@Override public void actionPerformed(ActionEvent e){if (alpha &lt; 255) {AWTUtilities.setWindowOpacity(this,alpha);}}}”" description="抽取局部变量“actionListener”" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;{ShadeFrame.java" name="actionListener" replace="false" selection="1569 273" stamp="1283310598746" version="1.0"/>
+</session>

@@ -1,0 +1,134 @@
+package com.lzw;
+
+import java.awt.EventQueue;
+import java.awt.GridLayout;
+import java.awt.Point;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseMotionAdapter;
+
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.BevelBorder;
+import javax.swing.border.EmptyBorder;
+
+public class ddy extends JFrame {
+    
+    private final class MyMouseMotionAdapter extends MouseMotionAdapter {
+        @Override
+        public void mouseDragged(MouseEvent e) {
+            do_panel_mouseDragged(e);
+        }
+    }
+    
+    private final class MymouseListener extends MouseAdapter {
+        @Override
+        public void mousePressed(MouseEvent e) {
+            do_panel_mousePressed(e);
+        }
+        
+        @Override
+        public void mouseReleased(MouseEvent e) {
+            do_panel_mouseReleased(e);
+        }
+    }
+    
+    private BackgroundPanel contentPane;
+    private JPanel panel;
+    private int pressedX;
+    private int orientation;
+    private int mx;
+    private ImageIcon icon = new ImageIcon(getClass().getResource("back.jpg"));
+    private boolean run = true;
+    
+    /**
+     * Launch the application.
+     */
+    public static void main(String[] args) {
+        EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                try {
+                    ddy frame = new ddy();
+                    frame.setVisible(true);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+    }
+    
+    /**
+     * Create the frame.
+     */
+    public ddy() {
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setBounds(100, 100, 800, 495);
+        contentPane = new BackgroundPanel();
+        contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+        setContentPane(contentPane);
+        contentPane.setLayout(null);
+        
+        panel = new JPanel();
+        panel.setBorder(new BevelBorder(BevelBorder.RAISED, null, null, null,
+                null));
+        panel.addMouseListener(new MymouseListener());
+        panel.addMouseMotionListener(new MyMouseMotionAdapter());
+        panel.setBounds(-10000, 145, 20000, 152);
+        contentPane.add(panel);
+        panel.setLayout(new GridLayout(1, 1, 80, 0));
+        
+        JButton[] buttons = new JButton[55];
+        for (int i = 0; i < buttons.length; i++) {
+            buttons[i] = new JButton("" + i);
+            buttons[i].setIcon(icon);
+            buttons[i].setContentAreaFilled(false);
+            buttons[i].setBorder(null);
+            panel.add(buttons[i]);
+            buttons[i].addMouseListener(new MymouseListener());
+            buttons[i].addMouseMotionListener(new MyMouseMotionAdapter());
+        }
+    }
+    
+    protected void do_panel_mouseDragged(MouseEvent e) {
+        Point point = e.getPoint();
+        mx = (point.x - pressedX);
+        orientation = Integer.signum(mx);
+        int px = panel.getX();
+        int py = panel.getY();
+        int componentX = mx + px;
+        panel.setLocation(componentX, py);
+        run = true;
+    }
+    
+    protected void do_panel_mousePressed(MouseEvent e) {
+        pressedX = e.getX();
+        run = false;
+    }
+    
+    protected void do_panel_mouseReleased(MouseEvent e) {
+        new Thread() {
+            public void run() {
+                int xoffer = Math.abs(mx) * 2;
+                int py = panel.getY();
+                while (xoffer > 0 && run) {
+                    int px = panel.getX();
+                    int pw = panel.getWidth();
+                    panel.setLocation(orientation * (xoffer-=2) + px, py);
+                    try {
+                        sleep(Math.abs(Math.abs(mx) * 2 - xoffer));
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+                    if (px > getWidth() - 300) {
+                        run=false;
+                    }
+                    if ((px + pw) <= 300) {
+                        run=false;
+                    }
+                }
+            }
+        }.start();
+    }
+}

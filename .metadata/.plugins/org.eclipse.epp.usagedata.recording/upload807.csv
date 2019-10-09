@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158572565
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276158572846
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158573190
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276158578815
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158582252
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158599207
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276158599253
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276158602035
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276158603800
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276158604972
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1276158615347
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158616035
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158616222
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276158620113
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1276158621785
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1276158625128
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158627285
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158643373
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276158643419
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158646185
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276158659216
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276158662357
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276158663841
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276158679904
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276158680998

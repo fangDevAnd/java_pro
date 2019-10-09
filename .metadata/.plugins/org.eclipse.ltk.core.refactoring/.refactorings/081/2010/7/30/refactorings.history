@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="从 项目“实例022  去掉字符串中的所有空格” 中删除 1 个元素&#x0D;&#x0A;－ 原始项目：“实例022  去掉字符串中的所有空格”&#x0D;&#x0A;－ 原始元素：“MainClass.java”" description="删除元素" element1="/src&lt;{MainClass.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1279678007973" subPackages="false" version="1.0"/>
+</session>

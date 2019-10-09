@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unhandled event loop exception",1275290207004
+error,log,,,"Unhandled event loop exception",1275290213739
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275290214239
+activated,view,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.BeansList",1275290226963
+closed,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275290226963
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275290228004
+opened,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275290228879
+activated,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275290229036
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.organize.imports",1275290233239
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275290234004
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290239398
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290241476
+activated,view,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.BeansList",1275290270117
+activated,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275290273007
+activated,view,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.BeansList",1275290274460
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290274523
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290283242
+activated,editor,org.eclipse.ve.java.core,1.4.0.v20090826-1446,"org.eclipse.ve.internal.java.codegen.editorpart.JavaVisualEditor",1275290291164
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275290294023
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290296445
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275290298976
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290300789
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290333867
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290341914
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275290345773

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Unable to load the repository jar:file:/C:/Users/Administrator/Desktop/lzw/VE-Update-1.4.0.zip!/",1276997192669
+error,log,,,"Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/",1276997192717
+error,log,,,"Unable to load the repository http://download.eclipse.org/eclipse/updates/3.5",1276997192764
+error,log,,,"Unable to load the repository http://download.eclipse.org/releases/galileo",1276997192811
+error,log,,,"Unable to load the repository jar:file:/E:/部门空间/部门专用工具/开发工具/SWT&Jface/WBPro_v6.9.3_for_Eclipse3.5.zip!/",1276997192967
+started,bundle,org.eclipse.equinox.p2.artifact.repository,1.0.100.v20090527-1812,"org.eclipse.equinox.p2.artifact.repository",1276997193467
+started,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,1.0.100.v20090611-1224,"org.eclipse.equinox.p2.touchpoint.eclipse",1276997193647
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997195959
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997198475
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997199413
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.help.aboutAction",1276997199428
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997201967
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276997304882
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997348427
+executed,command,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.install",1276997348560
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997348966
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997350107
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997350216
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997444986
+closed,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276997445450
+stopped,bundle,com.instantiations.designer.swing.java6,7.4.0.r35x201005090414,"com.instantiations.designer.swing.java6",1276997446572
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1276997446580
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1276997446580
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1276997446580
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1276997446580

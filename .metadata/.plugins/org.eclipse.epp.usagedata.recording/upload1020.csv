@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928853750
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928862171
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928867922
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928878090
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928886104
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928887448
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928912606
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276928913997
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929111367
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929111398
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929163716
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929163763
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929229173
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929229189
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929279790
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929288774
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929558491
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276929561686
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930507379
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930508145
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930543822
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930610603
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930626556
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276930713056
+error,log,,,"Designer [7.4.0.r35x201005090400]: com.instantiations.utils.string.StringUtilities.extractCamelCaps(Ljava/lang/String;)Ljava/lang/String;",1276930752457

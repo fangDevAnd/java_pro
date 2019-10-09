@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“fdsfde”重命名为“ShowLineBorder”&#x0D;&#x0A;－ 原始项目：“实例004  为文本框控件添加LineBorder线形边框”&#x0D;&#x0A;－ 原始元素：“fdsfde”&#x0D;&#x0A;－ 重命名的元素：“ShowLineBorder”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“fdsfde”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{fdsfde.java[fdsfde" matchStrategy="1" name="ShowLineBorder" qualified="false" references="true" similarDeclarations="false" stamp="1282285663412" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275965966932
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275966003901
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966003979
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966004401
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966105370
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966111276
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966149058
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966150542
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275966202380
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275966215646
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966226630
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966231490
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966236318
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966249271
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275966267006
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275966273241
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275966277006
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275966285069
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275966287069
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275966294397
+executed,command,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui.commands.RunLast",1275966298366
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966299038
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275966352569
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.delete.line",1275966354750
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275966354954

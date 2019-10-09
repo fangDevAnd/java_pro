@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“FileSelectDialog”重命名为“FileSaveDialog”&#x0D;&#x0A;－ 原始项目：“实例025  支持TXT文件格式的保存对话框”&#x0D;&#x0A;－ 原始元素：“FileSelectDialog”&#x0D;&#x0A;－ 重命名的元素：“FileSaveDialog”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“FileSelectDialog”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{FileSelectDialog.java[FileSelectDialog" matchStrategy="1" name="FileSaveDialog" qualified="false" references="true" similarDeclarations="false" stamp="1281076381081" textual="false" version="1.0"/>
+</session>

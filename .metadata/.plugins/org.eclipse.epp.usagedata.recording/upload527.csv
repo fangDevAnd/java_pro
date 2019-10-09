@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.designer.swing.hc,7.4.0.r35x201005090414,"com.instantiations.designer.swing.hc",1275876965673
+started,bundle,org.eclipse.pde,3.4.100.v200906111540,"org.eclipse.pde",1275876965830
+started,bundle,com.instantiations.designer.core.apiImpl,7.4.0.r35x201005090400,"com.instantiations.designer.core.apiImpl",1275876967970
+started,bundle,com.instantiations.designer.rcp.GroupLayout,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.GroupLayout",1275876968298
+started,bundle,com.instantiations.designer.rcp.swing2swt,7.4.0.r35x201005090420,"com.instantiations.designer.rcp.swing2swt",1275876968314
+started,bundle,com.instantiations.designer.layout.group,7.4.0.r35x201005090408,"com.instantiations.designer.layout.group",1275876978908
+started,bundle,com.instantiations.designer.swing.MigLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout.lib",1275876979017
+started,bundle,com.instantiations.designer.swing.MigLayout,7.4.0.r35x201005090414,"com.instantiations.designer.swing.MigLayout",1275876979017
+started,bundle,com.instantiations.designer.swing.java6,7.4.0.r35x201005090414,"com.instantiations.designer.swing.java6",1275876979033
+started,bundle,com.instantiations.designer.swing.FormLayout.lib,7.4.0.r35x201005090414,"com.instantiations.designer.swing.FormLayout.lib",1275876979486
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876979908
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876983267
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876985455
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876989408
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876991673
+started,bundle,com.instantiations.designer.swing.ams,7.4.0.r35x201005090414,"com.instantiations.designer.swing.ams",1275876992892
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275876998251
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877002423
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877004564
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877010158
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275877014533
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877023088
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275877091463
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275877095932
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1275877098541

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.equinox.http.servlet,1.0.200.v20090520-1800,"org.eclipse.equinox.http.servlet",1275634011401
+started,bundle,org.eclipse.equinox.http.registry,1.0.200.v20090520-1800,"org.eclipse.equinox.http.registry",1275634011838
+started,bundle,org.eclipse.ui.browser,3.2.300.v20090526,"org.eclipse.ui.browser",1275634011854
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634307395
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634308192
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634540026
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275634542713
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634543057
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634548713
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275634552729
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275634554432
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634554776
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634743973
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634747379
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634747879
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1275634748020
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275634754083
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634754161
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275634754536
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1275634773004
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275634774020
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275634776176
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1275634776911
+no handler,command,org.eclipse.gef,,"org.eclipse.gef.zoom_out",1275634777614
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.restore",1275634778629

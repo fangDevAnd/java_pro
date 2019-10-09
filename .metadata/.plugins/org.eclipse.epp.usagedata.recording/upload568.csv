@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.instantiations.designer.os,7.4.0.r35x201005090400,"com.instantiations.designer.os",1275963037275
+started,bundle,com.instantiations.designer.os.win32,7.4.0.r35x201005090400,"com.instantiations.designer.os.win32",1275963037306
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963077228
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963079837
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963094796
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963096906
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275963111845
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275963115095
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275963126517
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275963135080
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275963149564
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.text.contentAssist.proposals",1275963155923
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.select.lineStart",1275963159189
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.delete",1275963159455
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275963166017
+executed,command,org.eclipse.ui.ide,3.5.0.I20090525-2000,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1275963175298
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963181392
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963181876
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1275963182142
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963187814
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963189611
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.undo",1275963194923
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963194986
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275963195408
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1275963200892

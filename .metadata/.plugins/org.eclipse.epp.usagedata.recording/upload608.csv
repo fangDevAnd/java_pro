@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275976971586
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1275976988446
+no handler,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineStart",1275977013649
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977015305
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977031602
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1275977059336
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1275977084243
+opened,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977084790
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977085024
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977087024
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977087711
+executed,command,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.commands.switch",1275977087743
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977093352
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977096602
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1275977098868
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977099915
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1275977101180
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977194524
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1275977210368
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977215790
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977242196
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977339321
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977520200
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977522904
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1275977524451

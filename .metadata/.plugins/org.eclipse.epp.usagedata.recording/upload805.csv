@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineDown",1276157459381
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineDown",1276157459553
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineDown",1276157459741
+executed,command,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.edit.text.java.format",1276157461366
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.save",1276157462100
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157462913
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157469366
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1276157499366
+activated,editor,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core.guiEditor",1276157500959
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157506006
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157700084
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157701993
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157702274
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157702649
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157712541
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157724900
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157736166
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1276157738525
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157739056
+error,log,,,"Designer [7.4.0.r35x201005090400]: org.eclipse.jface.text.BadLocationException",1276157753166
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.copy",1276157754994
+executed,command,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.edit.text.folding.collapse",1276157758462
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.cut",1276157771072
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.edit.paste",1276157774791
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1276157793603

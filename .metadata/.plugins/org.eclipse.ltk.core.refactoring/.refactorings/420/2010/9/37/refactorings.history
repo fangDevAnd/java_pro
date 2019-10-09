@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将资源“420/程序使用说明.txt”重命名为“数据库脚本.sql”" description="重命名资源“程序使用说明.txt”" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="程序使用说明.txt" name="数据库脚本.sql" stamp="1283849193209" updateReferences="true"/>
+</session>

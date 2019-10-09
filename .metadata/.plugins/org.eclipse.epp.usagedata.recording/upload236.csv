@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274951069244
+java.specification.version,sysinfo,,,"1.6",1274951069244
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1274951069244
+java.version,sysinfo,,,"1.6.0_20",1274951069244
+java.vm.info,sysinfo,,,"mixed mode, sharing",1274951069244
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1274951069244
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1274951069244
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1274951069244
+java.vm.specification.version,sysinfo,,,"1.0",1274951069244
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1274951069244
+java.vm.version,sysinfo,,,"16.3-b01",1274951069244
+started,bundle,com.instantiations.designer.core,7.4.0.r35x201005090400,"com.instantiations.designer.core",1274951069619
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.0.v200906080500,"org.eclipse.jst.common.project.facet.core",1274951069822
+started,bundle,com.instantiations.common.core,5.6.0.r35x201005070739,"com.instantiations.common.core",1274951071353
+started,bundle,com.instantiations.designer.gwt,7.4.0.r35x201005090409,"com.instantiations.designer.gwt",1274951071462
+started,bundle,com.instantiations.designer.swing,7.4.0.r35x201005090414,"com.instantiations.designer.swing",1274951072681
+started,bundle,com.instantiations.designer.rcp,7.4.0.r35x201005090420,"com.instantiations.designer.rcp",1274951073025
+started,bundle,com.instantiations.designer.swt,7.4.0.r35x201005090412,"com.instantiations.designer.swt",1274951073041
+started,bundle,com.instantiations.designer.gwt.SmartGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.SmartGWT",1274951073681
+started,bundle,com.instantiations.designer.gwt.ExtGWT,7.4.0.r35x201005090409,"com.instantiations.designer.gwt.ExtGWT",1274951073775
+started,bundle,com.instantiations.j2ee,7.4.0.r35x201005070802,"com.instantiations.j2ee",1274951073869
+started,bundle,com.instantiations.eclipse.usageprofiler,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler",1274951073931
+started,bundle,com.instantiations.eclipse.usageprofiler.ui,5.6.0.r35x201005070739,"com.instantiations.eclipse.usageprofiler.ui",1274951074087
+started,bundle,org.eclipse.jdt.apt.core,3.3.200.v20090528-1135,"org.eclipse.jdt.apt.core",1274951074228
+started,bundle,com.instantiations.eclipse.debug,5.6.0.r35x201005070739,"com.instantiations.eclipse.debug",1274951074228
